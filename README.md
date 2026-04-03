@@ -10,7 +10,7 @@
 <br><br>
 <strong style="font-family:'Times New Roman'; font-size:12pt;">A*STAR Supervisors</strong>
 <br>
-<span style="font-family:'Times New Roman'; font-size:12pt;">Dr Amit Singhal, Dr Sheetal Saini </span>
+<span style="font-family:'Times New Roman'; font-size:12pt;">Dr Amit Singhal, Dr Sheetal Saini </span><br>
 <strong style="font-family:'Times New Roman'; font-size:12pt;">NUS Supervisor</strong>
 <br>
 <span style="font-family:'Times New Roman'; font-size:12pt;">Dr Tang Kok Zuea </span>
