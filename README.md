@@ -29,3 +29,13 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 </div>
 <br><br>
 ##<strong>Table of Contents</strong><br>
+
+
+
+
+
+
+
+# <strong>1. Introduction</strong>
+Pulmonary fibrosis (PF) is a lung disease that occurs when the  lung tissue becomes damaged and scarred (refer to figure 1), resulting in fibrotic tissue blocking the movement of oxygen from inside the tiny air sacs in the lungs into the bloodstream (What Is Pulmonary Fibrosis?, 2025). In advanced stages, the lung tissue may develop a distinctive “honeycomb” appearance, which reflects extensive structural damage (Cheng, 2025). This pattern consists of numerous cystic airspaces with thick fibrous walls embedded within densely scarred tissue, which not only makes the lungs less efficient at delivering oxygen, but also reduces their ability to expand. This increased stiffness requires the lungs to work harder during breathing, demanding more energy, often leading to shortness of breath and difficulty performing everyday activities (Pulmonary Fibrosis - Symptoms and Causes, 2025). 
+
