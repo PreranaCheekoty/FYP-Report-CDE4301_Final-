@@ -105,6 +105,7 @@ In contrast, the BLM-induced PF model offers several distinct advantages. In add
 
 Building on these advantages, our lab previously developed a humanized mouse model in which CD34⁺ hematopoietic stem cells, peripheral blood mononuclear cells, and other human immune cells were engrafted into immunodeficient mice, enabling the study of human-specific immune responses in vivo in a controlled experimental setting (Humanized Immune System Mice for Preclinical Research, 2023). Leveraging this model, bulk transcriptomic analysis was performed to investigate molecular changes associated with disease progression. This approach revealed several genes that were differentially regulated in both the humanized mice and human PF samples (_refer to figure 2_). Notably, _SOCS3_ and _RNF128_ emerged as consistently dysregulated genes, prompting further investigation into their potential roles and the underlying pathways involved in pulmonary fibrosis.
 
+<div align="center">
 <img src="fig2.png" alt="fig 2" width="600"><br>
 _Figure 1. Transcriptomic analysis of lung tissue from humanized mice_
 </div>
