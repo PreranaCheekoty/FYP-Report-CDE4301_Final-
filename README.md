@@ -117,3 +117,11 @@ Secondly, serum HPA levels were unexpectedly higher in baseline control groups c
 Lastly, the exclusive use of female mice may limit the generalisability of the findings, as sex-specific differences in immune responses and fibrosis progression have been reported (Lamichhane et al., 2022).
 
 Despite these limitations, the data obtained was significant to proceed with the main study, providing a strong foundation for further investigation. 
+
+### <strong>4.5 Experimental Design for Main Study 1</strong>
+Building on the findings and limitations identified in the pilot study, main study 1 was designed with several key modifications. The study included 6 SOCS3fl/fl wild-type (WT) mice that were used as true controls and 10 LysmCreSOCS3fl/fl (knockout) mice (refer to figure 4). Unlike the pilot study, both male and female mice were included in main study 1 to improve the generalisability of the findings. 
+
+Within each genotype, a subset of mice received a single intratracheal dose of bleomycin (2.5 U/kg) to induce PF, while the remaining mice were maintained as baseline controls. Mice were monitored over a 13-day period, consistent with the pilot study design, before being sacrificed for tissue collection. Lung tissues were harvested for downstream analysis, while serum samples were not collected due to the limitations identified in the pilot study regarding the reliability of serum hydroxyproline as an indicator of lung fibrosis.
+
+Subsequently, RNA was isolated from lung tissues, followed by cDNA preparation for qPCR analysis to assess gene expression changes associated with fibrosis and SOCS3 deficiency.
+
