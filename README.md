@@ -3,7 +3,7 @@
 
 <strong style="font-family:'Times New Roman'; font-size:12pt;">EIM-431: Deciphering the Role of SOCS3 in Pulmonary Fibrosis</strong>
 <br><br>
-<img src="intro 1.png" alt="NUS Logo" width="400">
+<img src="NUS_logo_full-horizontal (1).png" alt="NUS Logo" width="400"><br>
 <span style="font-family:'Times New Roman'; font-size:12pt;">CDE4301 Final Report AY 2025/26</span>
 <br><br>
 <strong style="font-family:'Times New Roman'; font-size:12pt;">Submitted by</strong>
