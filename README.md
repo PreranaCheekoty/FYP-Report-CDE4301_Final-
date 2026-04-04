@@ -28,12 +28,14 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 
 # Table of Contents
 
+# Table of Contents
+
 - [Acknowledgements](#acknowledgements) .......................................... 2
 
 - [1. Introduction](#1-introduction) ............................................ 4
 
 - [2. Bleomycin-induced Pulmonary Fibrosis](#2-bleomycin-induced-pulmonary-fibrosis) ............................................ 6
-  - [2.1 Bleomycin (BLM)-Induced Pulmonary Fibrosis (PF) Model](#21-bleomycin-blm-induced-pulmonary-fibrosis-pf-model) .......... 6
+  - [2.1 Bleomycin BLM-Induced Pulmonary Fibrosis PF Model](#21-bleomycin-blm-induced-pulmonary-fibrosis-pf-model) .......... 6
   - [2.2 SOCS3 Protein and Signalling Pathway](#22-socs3-protein-and-signalling-pathway) .......... 8
 
 - [3. Research Hypothesis and Objectives](#3-research-hypothesis-and-objectives) ...................... 8
@@ -52,15 +54,15 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
   - [5.1 Main Study 1](#51-main-study-1) ........................................ 13
     - [5.1.1 Phenotype](#511-phenotype) ........................................ 13
     - [5.1.2 Genotype](#512-genotype) .......................................... 13
-      - [5.1.2.a Genotyping](#512a-genotyping) .................................. 14
-      - [5.1.2.b Hydroxyproline Assay Experiment](#512b-hydroxyproline-assay-experiment) .. 14
-      - [5.1.2.c qPCR](#512c-qpcr) ............................................. 15
+      - [5.1.2a Genotyping](#512a-genotyping) .................................. 14
+      - [5.1.2b Hydroxyproline Assay Experiment](#512b-hydroxyproline-assay-experiment) .. 14
+      - [5.1.2c qPCR](#512c-qpcr) ............................................. 15
   - [5.2 Main Study 2](#52-main-study-2) ........................................ 17
     - [5.2.1 Phenotype](#521-phenotype) ........................................ 17
     - [5.2.2 Genotype](#522-genotype) .......................................... 17
-      - [5.2.2.a Genotyping](#522a-genotyping) .................................. 17
-      - [5.2.2.b Hydroxyproline Assay Experiment](#522b-hydroxyproline-assay-experiment) .. 17
-      - [5.2.2.c qPCR](#522c-qpcr) ............................................. 18
+      - [5.2.2a Genotyping](#522a-genotyping) .................................. 17
+      - [5.2.2b Hydroxyproline Assay Experiment](#522b-hydroxyproline-assay-experiment) .. 17
+      - [5.2.2c qPCR](#522c-qpcr) ............................................. 18
 
 - [6. Conclusion](#6-conclusion) ................................................ 19
 
