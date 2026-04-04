@@ -134,7 +134,18 @@ All downstream analyses were performed as in Main Study 1. In Main Study 2, qPCR
 ### <strong>5.1 Main Study 1</strong>
 ##### <strong>5.1.1 Phenotype</strong>
 
+# <strong>6. Conclusion </strong><br>
+This study investigated the role of myeloid-specific SOCS3 deficiency in bleomycin-induced pulmonary fibrosis using a conditional knockout murine model. Overall, the findings suggest that SOCS3 plays a key regulatory role in both inflammatory and fibrotic processes within the lung.
 
+Genotyping confirmed the presence of WT and knockout genotypes. Phenotypic analysis across both genotypes consistently showed that bleomycin treatment caused significant weight loss and increased lung weight, as expected for this drug. Together, these measures validated the successful establishment of the fibrotic model.
+
+At the molecular level, qPCR analyses revealed differential regulation of fibrosis-associated genes. In Main Study 1, WT mice showed an unexpected suppression of COL1A1, ACTA2, and CCN2 expression following bleomycin treatment, suggesting a potentially protective role for intact SOCS3 in controlling fibrotic progression. In contrast, knockout mice consistently exhibited increased expression of these genes, supporting the hypothesis that loss of SOCS3 leads to a less controlled inflammatory response and enhanced fibrotic signalling.
+
+In Main Study 2, a more typical fibrotic response was observed, with increased expression of fibrosis markers in both WT and knockout mice following bleomycin treatment. Despite this variation, the knockout genotype consistently demonstrated elevated gene expression compared to controls, reinforcing SOCS3’s role as a key modulator of fibrosis.
+
+Analysis of immune markers further supported these findings, showing a trend toward increased inflammatory gene expression in knockout mice, although these changes did not reach statistical significance. Together, these results suggest that SOCS3 functions as a negative regulator of inflammation, and its absence contributes to dysregulated immune responses that promote fibrotic progression.
+
+In conclusion, while variability between experimental cohorts was observed, the overall data support the hypothesis that myeloid-specific SOCS3 deficiency enhances inflammatory and fibrotic responses in the lung. This highlights SOCS3 as a potential therapeutic target for modulating disease progression in pulmonary fibrosis.
 
 # <strong>7. Future Works </strong><br>
 While the initial findings provide valuable insights, there is considerable room for improvement to strengthen the conclusions. In general, increasing the sample size in future experiments would enhance statistical power, enabling more definitive results. Furthermore, standardising experimental conditions across studies will also be important to reduce variability, as differences observed between Main Study 1 and Main Study 2 suggest potential sensitivity to experimental or biological factors.
