@@ -148,7 +148,7 @@ Structurally, _SOCS3_ is a relatively small protein comprising 225 amino acids, 
 
 To investigate the role of _SOCS3_ in immune regulation within myeloid cells, a conditional knockout strategy was employed. LoxP sites were inserted flanking Exon 2, allowing targeted deletion of this functional region. In the absence of Cre recombinase, the gene remains intact and fully functional. However, when Cre is expressed, it recognises the loxP sites and excises Exon 2, resulting in loss of functional _SOCS3_ protein.
 
-For myeloid-specific deletion, the LysMCre mouse model is widely used, in which Cre recombinase expression is driven by the Lyz2 promoter, active in myeloid cells including macrophages, monocytes, and granulocytes. Crossing LysMCre mice with _SOCS3_fl/fl mice (_refer to figure 3_) results in Cre-mediated recombination in these cells, leading to targeted _SOCS3_ deletion in the myeloid compartment.
+For myeloid-specific deletion, the LysMCre mouse model is widely used, in which Cre recombinase expression is driven by the Lyz2 promoter, active in myeloid cells including macrophages, monocytes, and granulocytes. Crossing LysM<sup>Cre</sup> mice with *SOCS3*<sup>fl/fl</sup> mice (_refer to figure 3_) results in Cre-mediated recombination in these cells, leading to targeted _SOCS3_ deletion in the myeloid compartment.
 
 <div align="center">
 <img src="fig3.png" alt="fig 3" width="600"><br>
@@ -208,7 +208,7 @@ Genotyping was performed using PCR and visualised by agarose gel electrophoresis
 
 For the WT mice, all samples displayed a single band at approximately 400-420 bp, corresponding to the expected size of the floxed _SOCS3_ allele (_refer to figure 7_). The presence of a single band at this position indicates that these mice are homozygous *SOCS3*<sup>fl/fl</sup>, meaning both copies of the gene contain loxP sites flanking Exon 2.
 
-For the knockout mice, two separate PCR reactions were performed: one to detect the LysMCre transgene and another to confirm the _SOCS3_ floxed allele. In the LysMCre gel, a band at approximately 700 bp indicates Cre-positive mice, while the absence of this band (or the presence of a lower band around 350 bp) indicates Cre-negative mice. In the corresponding _SOCS3_ gel, bands around 420 bp confirm the presence of the floxed allele, whereas a smaller band (~250 bp) may reflect Cre-mediated recombination of Exon 2 in specific cells (refer to figure 7).
+For the knockout mice, two separate PCR reactions were performed: one to detect the LysM<sup>Cre</sup> transgene and another to confirm the _SOCS3_ floxed allele. In the LysM<sup>Cre</sup> gel, a band at approximately 700 bp indicates Cre-positive mice, while the absence of this band (or the presence of a lower band around 350 bp) indicates Cre-negative mice. In the corresponding _SOCS3_ gel, bands around 420 bp confirm the presence of the floxed allele, whereas a smaller band (~250 bp) may reflect Cre-mediated recombination of Exon 2 in specific cells (refer to figure 7).
 
 Mice showing both the Cre band (~700 bp) and the floxed _SOCS3_ band (~420 bp) are therefore confirmed as LysM<sup>Cre</sup> *SOCS3*<sup>fl/fl</sup>. This genotype is required for myeloid-specific deletion of _SOCS3_. Overall, the presence of bands at the expected sizes across both gels confirms the successful identification of both control and knockout mice used in this study.
 
