@@ -80,6 +80,7 @@ Based on this hypothesis, the study is structured around two main objectives:
 2. Effect of myeloid specific SOCS3 deficiency on immune markers in bleomycin induced fibrotic lung
    
 This FYP primarily focused on Objective 1, beginning with validation of the conditional knockout mouse model, followed by phenotypic characterization of SOCS3 deficiency in myeloid cells after bleomycin treatment. Phenotypic assessments included measurements of body weight and lung weight. Genotypic effects of SOCS3 deficiency were confirmed by evaluating SOCS3 expression using Hydroxyproline Assay (HPA) and quantitative PCR (qPCR). Experimental workflows were optimized during the pilot study to ensure reliable and reproducible results.
+
 Preliminary work for Objective 2 was initiated to investigate the potential impact of myeloid-specific SOCS3 deficiency on immune markers in bleomycin-induced fibrotic lungs, with qPCR used to assess genes associated with various immune cell populations.
 
 It should be noted that all work conducted during this FYP focused on validating the conditional knockout model and assessing phenotypic and genotypic effects. The study was not designed to directly investigate STAT3 activation or its associated signalling pathways.
