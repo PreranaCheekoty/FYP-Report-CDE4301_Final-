@@ -27,7 +27,6 @@ I am especially thankful to my supervisor, Dr. Sheetal, for her patient mentorsh
 Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, Yuxi, Yao, Andrea, Wenning, and Sakshi for their support and in making this experience both enriching and enjoyable.
 
 # <strong>Table of Contents</strong><br>
-
 **[Acknowledgements](#acknowledgements)** .......................................... **2**
 
 **[1. Introduction](#1-introduction)** ............................................ **4**
