@@ -102,3 +102,18 @@ To investigate the role of SOCS3 in immune regulation within myeloid cells, a co
 For myeloid-specific deletion, the LysMCre mouse model is widely used, in which Cre recombinase expression is driven by the Lyz2 promoter, active in myeloid cells including macrophages, monocytes, and granulocytes. Crossing LysMCre mice with SOCS3fl/fl mice (refer to figure 3) results in Cre-mediated recombination in these cells, leading to targeted SOCS3 deletion in the myeloid compartment.
 
 This model allows targeted investigation of SOCS3 in immune responses and its contribution to inflammation and fibrosis, forming the basis for the pilot and main studies described below. 
+
+### <strong>4.4 Optimization - Pilot Study</strong>
+For the pilot study, two mouse strains were used: LysMCreSOCS3fl/fl, representing complete myeloid-specific SOCS3 deletion, and LysMCreSOCS3fl/wt serving as a heterozygous partial control with one functional SOCS3 allele, with all mice being female. Genotyping was then performed to confirm the genetic status of the mice, verifying the presence of both heterozygous and homozygous SOCS3 deletions within the experimental cohort. 
+
+Within each genotype, a subset of mice received a single intratracheal dose of bleomycin (2.5 U/kg) to induce PF, while the remaining mice were maintained as baseline controls. Initial phenotypic assessment involved monitoring body weight changes on days 1, 5, 8, and 12 over a 13-day period, during which bleomycin-treated mice showed a significant reduction in body weight.
+
+After this period, the mice were sacrificed, with lung tissues harvested and serum samples collected for downstream analysis. Bleomycin-treated mice showed an increase in lung weight, consistent with fibrotic progression following induction. HPA in lung lysate and serum samples were performed to quantify collagen deposition, providing an objective measure of lung fibrosis severity. In addition, qPCR was used to validate myeloid-specific SOCS3 deletion by measuring relative SOCS3 expression in lung tissue.
+
+However, the pilot study had three main limitations. Firstly, a heterozygous partial control was used instead of a true wild-type control. While the results obtained for the HPA in lung lysates and SOCS3 validation aligned with the expected outcomes of my hypothesis, heterozygous mice have varying levels of SOCS3 expression, making it more difficult to clearly distinguish the effects of complete SOCS3 loss. Including wild-type controls would have provided a clearer reference for normal SOCS3 expression and fibrosis levels, allowing for more definitive comparisons.
+
+Secondly, serum HPA levels were unexpectedly higher in baseline control groups compared to bleomycin-treated mice. This discrepancy likely reflects the fact that serum hydroxyproline represents circulating collagen fragments derived from multiple tissues and is influenced by systemic metabolic and dilutional factors. In contrast, HPA measurements from lung lysates were higher in bleomycin-treated mice than in controls, providing a more direct and reliable indicator of local collagen deposition and fibrosis severity.
+
+Lastly, the exclusive use of female mice may limit the generalisability of the findings, as sex-specific differences in immune responses and fibrosis progression have been reported (Lamichhane et al., 2022).
+
+Despite these limitations, the data obtained was significant to proceed with the main study, providing a strong foundation for further investigation. 
