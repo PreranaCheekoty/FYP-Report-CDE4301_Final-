@@ -28,7 +28,39 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 
 # <strong>Table of Contents</strong><br>
 
+**[Acknowledgements](#acknowledgements)** .......................................... **2**
 
+**[1. Introduction](#1-introduction)** ............................................ **4**
+  
+**[2. Bleomycin-induced Pulmonary Fibrosis](#2-models)** ........................................................ **6**
+  - [2.1 Bleomycin (BLM)-Induced Pulmonary Fibrosis (PF) Model](#21-bleomycin-induced-pulmonary-fibrosis-model-bipf) ......... 6
+  - [2.2 SOCS3 Protein and Signalling Pathway]  ............. 8
+
+**[3. Research Hypothesis and Objectives](#3-research-hypothesis-and-objectives)** ...................... **8**
+  - [3.1 Hypothesis](#31-hypothesis) ............................................. 8
+  - [3.2 Objectives](#32-objectives) ............................................. 8
+
+**[4. Methodology](#4-methodology)** .............................................. **9**
+  - [4.1 Study Timeline](#41-study-timeline) ..................................... 9
+  - [4.2 Ethical Considerations](#42-ethical-considerations) ..................... 10
+  - [4.3 Rationale for SOCS3 Conditional Knockout Model](#43-experimental-design-for-pilot-study) ................. 10
+  - [4.4 Optimization - Pilot Study]
+
+**[5. Results and Discussion](#5-results-and-discussion)** ......................... **10**
+  - [5.1 Mice Body Weight and Lung Weight](#51-mice-body-weight-and-lung-weight) .. 10
+  - [5.2 SOCS3 Expression Validation in Lung](#52-socs3-expression-validation-in-lung) ................. 11
+  - [5.3 Hydroxyproline Assay Experiment](#53-hydroxyproline-assay-experiment) .... 11
+  - [5.4 Limitation with the Pilot Study](#54-limitation-with-the-pilot-study) ..... 12
+
+**[6. Conclusion](#6-conclusion)** ................................................ **12**
+
+**[7. Future Works](#7-future-works)** ............................................ **13**
+  - [7.1 Experimental Design for Main Experiment](#71-experimental-design-for-main-experiment) ......... 13
+  - [7.2 Mechanistic Properties](#72-mechanistic-properties) ..................... 13
+
+**[Bibliography](#bibliography)** ................................................ **14**
+
+**[Appendix](#appendix)** .................................................... **16**
 
 
 
@@ -230,3 +262,6 @@ Given that the study hypothesis is linked to STAT3 signalling, future work shoul
 Finally, expanding the analysis of immune markers and cell populations through flow cytometry or single-cell sequencing would allow for a more detailed understanding of the immune landscape in SOCS3-deficient conditions. This would help to better characterise how specific immune cell subsets contribute to fibrosis progression.
 
 Together, these approaches would provide a more comprehensive understanding of the role of SOCS3 in pulmonary fibrosis and support the development of targeted therapeutic strategies.
+
+# <strong>8. References </strong><br>
+
