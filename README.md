@@ -26,46 +26,47 @@ I would also like to extend my heartfelt gratitude to my PI, Prof. Amit Singhal,
 I am especially thankful to my supervisor, Dr. Sheetal, for her patient mentorship. Her willingness to provide direction, clarify doubts, and offer thoughtful advice has been an anchor throughout the duration of the project.
 Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, Yuxi, Yao, Andrea, Wenning, and Sakshi for their support and in making this experience both enriching and enjoyable.
 
-# <strong>Table of Contents</strong><br>
-**[Acknowledgements](#acknowledgements)** .......................................... **2**
+# Table of Contents
 
-**[1. Introduction](#1-introduction)** ............................................ **4**
+- [Acknowledgements](#acknowledgements) .......................................... 2
 
-**[2. Bleomycin-induced Pulmonary Fibrosis](#2-bleomycin-induced-pulmonary-fibrosis)** ............................................ **6**
-- [2.1 Bleomycin (BLM)-Induced Pulmonary Fibrosis (PF) Model](#21-Bleomycin-blm-induced-pulmonary-fibrosis-pf-model) ......... 6
-- [2.2 SOCS3 Protein and Signalling Pathway](#22-socs3-protein-and-signalling-pathway) ............. 8
+- [1. Introduction](#1-introduction) ............................................ 4
 
-**[3. Research Hypothesis and Objectives](#3-research-hypothesis-and-objectives)** ...................... **8**
-- [3.1 Hypothesis](#31-Hypothesis) ............................................. 8
-- [3.2 Objectives](#32-Objectives) ............................................. 8
+- [2. Bleomycin-induced Pulmonary Fibrosis](#2-bleomycin-induced-pulmonary-fibrosis) ............................................ 6
+  - [2.1 Bleomycin (BLM)-Induced Pulmonary Fibrosis (PF) Model](#21-bleomycin-blm-induced-pulmonary-fibrosis-pf-model) .......... 6
+  - [2.2 SOCS3 Protein and Signalling Pathway](#22-socs3-protein-and-signalling-pathway) .......... 8
 
-**[4. Methodology](#4-methodology)** .............................................. **9**
-- [4.1 Study Timeline](#41-study-timeline) ..................................... 9
-- [4.2 Ethical Considerations](#42-ethical-considerations) ..................... 10
-- [4.3 Rationale for SOCS3 Conditional Knockout Model](#43-rationale-for-socs3-conditional-knockout-model) ................. 10
-- [4.4 Optimization - Pilot Study](#44-optimization---pilot-study) ................. 10
-- [4.5 Experimental Design for Main Study 1](#45-experimental-design-for-main-study-1) ................. 12
-- [4.6 Experimental Design for Main Study 2](#46-experimental-design-for-main-study-2) ................. 12
+- [3. Research Hypothesis and Objectives](#3-research-hypothesis-and-objectives) ...................... 8
+  - [3.1 Hypothesis](#31-hypothesis) ............................................. 8
+  - [3.2 Objectives](#32-objectives) ............................................. 8
 
-**[5. Results and Discussion](#5-results-and-discussion)** ......................... **13**
-  - [5.2 Main Study 1](#52-main-study-2)................. 13
-  - [5.2.1 Phenotype](#521-phenotype)................. 13
-  - [5.2.2 Genotype](#522-genotype)................. 13
-    - [5.2.2.a Genotyping](#522a-genotyping)................. 14
-    - [5.2.2.b Hydroxyproline Assay Experiment](#522b-hydroxyproline-assay-experiment)................. 14
-    - [5.2.2.c qPCR](#522c-qpcr)................. 15
-  - [5.2 Main Study 2](#52-main-study-2)................. 17
-  - [5.2.1 Phenotype](#521-phenotype)................. 17
-  - [5.2.2 Genotype](#522-genotype)................. 17
-    - [5.2.2.a Genotyping](#522a-genotyping)................. 17
-    - [5.2.2.b Hydroxyproline Assay Experiment](#522b-hydroxyproline-assay-experiment)................. 17
-    - [5.2.2.c qPCR](#522c-qpcr)................. 18
+- [4. Methodology](#4-methodology) .............................................. 9
+  - [4.1 Study Timeline](#41-study-timeline) ..................................... 9
+  - [4.2 Ethical Considerations](#42-ethical-considerations) ..................... 10
+  - [4.3 Rationale for SOCS3 Conditional Knockout Model](#43-rationale-for-socs3-conditional-knockout-model) .......... 10
+  - [4.4 Optimization - Pilot Study](#44-optimization---pilot-study) .......... 10
+  - [4.5 Experimental Design for Main Study 1](#45-experimental-design-for-main-study-1) .......... 12
+  - [4.6 Experimental Design for Main Study 2](#46-experimental-design-for-main-study-2) .......... 12
 
-**[6. Conclusion](#6-conclusion)** ................................................ **19**
+- [5. Results and Discussion](#5-results-and-discussion) ......................... 13
+  - [5.1 Main Study 1](#51-main-study-1) ........................................ 13
+    - [5.1.1 Phenotype](#511-phenotype) ........................................ 13
+    - [5.1.2 Genotype](#512-genotype) .......................................... 13
+      - [5.1.2.a Genotyping](#512a-genotyping) .................................. 14
+      - [5.1.2.b Hydroxyproline Assay Experiment](#512b-hydroxyproline-assay-experiment) .. 14
+      - [5.1.2.c qPCR](#512c-qpcr) ............................................. 15
+  - [5.2 Main Study 2](#52-main-study-2) ........................................ 17
+    - [5.2.1 Phenotype](#521-phenotype) ........................................ 17
+    - [5.2.2 Genotype](#522-genotype) .......................................... 17
+      - [5.2.2.a Genotyping](#522a-genotyping) .................................. 17
+      - [5.2.2.b Hydroxyproline Assay Experiment](#522b-hydroxyproline-assay-experiment) .. 17
+      - [5.2.2.c qPCR](#522c-qpcr) ............................................. 18
 
-**[7. Future Works](#7-future-works)** ............................................ **20**
+- [6. Conclusion](#6-conclusion) ................................................ 19
 
-**[8. References](#8-references)** ................................................ **21**
+- [7. Future Works](#7-future-works) ............................................ 20
+
+- [8. References](#8-references) ................................................ 21
 
 # <strong>1. Introduction</strong>
 Pulmonary fibrosis (PF) is a lung disease that occurs when the  lung tissue becomes damaged and scarred (refer to figure 1), resulting in fibrotic tissue blocking the movement of oxygen from inside the tiny air sacs in the lungs into the bloodstream (What Is Pulmonary Fibrosis?, 2025). In advanced stages, the lung tissue may develop a distinctive “honeycomb” appearance, which reflects extensive structural damage (Cheng, 2025). This pattern consists of numerous cystic airspaces with thick fibrous walls embedded within densely scarred tissue, which not only makes the lungs less efficient at delivering oxygen, but also reduces their ability to expand. This increased stiffness requires the lungs to work harder during breathing, demanding more energy, often leading to shortness of breath and difficulty performing everyday activities (Pulmonary Fibrosis - Symptoms and Causes, 2025). 
