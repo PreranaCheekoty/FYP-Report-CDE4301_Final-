@@ -84,3 +84,14 @@ This FYP primarily focused on Objective 1, beginning with validation of the cond
 Preliminary work for Objective 2 was also initiated to investigate the potential impact of myeloid-specific SOCS3 deficiency on immune markers in bleomycin-induced fibrotic lungs, with qPCR used to assess genes associated with various immune cell populations.
 
 It should be noted that all work conducted during this FYP focused on validating the conditional knockout model and assessing phenotypic and genotypic effects. The study was not designed to directly investigate STAT3 activation or its associated signalling pathways.
+
+# <strong>4.  Methodology</strong><br>
+### <strong>4.1 Study Timeline </strong>
+The project was carried out in several distinct phases. The first phase involved reviewing relevant literature to better understand the role of SOCS3 in pulmonary fibrosis, and completing the necessary animal handling and laboratory training for the project. This was followed by a series of preliminary experiments aimed at optimising experimental procedures and establishing suitable conditions for the main study.
+
+After optimizing these experimental conditions, the main experiments were conducted to validate SOCS3 expression and assess the associated cellular and molecular responses in the BLM model. Experimental data were then analyzed using Microsoft Excel and GraphPad Prism to evaluate results and guide subsequent experiments.
+
+### <strong>4.2 Ethical Considerations</strong>
+Prior to commencing any experiments, training at the A*STAR’s Biological Resource Centre was completed to ensure full compliance with ethical standards for mouse care, in strict accordance with protocols approved by the Institutional Animal Care and Use Committee. 
+
+### <strong>4.3 Rationale for SOCS3 Conditional Knockout Model</strong>
