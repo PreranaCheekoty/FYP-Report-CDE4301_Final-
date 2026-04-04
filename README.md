@@ -154,9 +154,18 @@ Hydroxyproline assay (HPA) was performed on lung lysates to assess collagen depo
 
 Notably, when comparing bleomycin-treated groups across genotypes, knockout mice exhibited higher collagen levels compared to WT mice. This increased collagen deposition suggests that the absence of SOCS3 in myeloid cells may contribute to enhanced inflammation and fibrotic progression.
 
-Interestingly, collagen levels in knockout mice were also higher than those observed in bleomycin-treated WT mice. This may indicate that SOCS3 deficiency alone is sufficient to elevate baseline collagen deposition, independent of bleomycin-induced injury, further supporting its potential role in regulating inflammatory and fibrotic processes.
+Interestingly, collagen levels in control knockout mice were also higher than those observed in bleomycin-treated WT mice. This may indicate that SOCS3 deficiency alone is sufficient to elevate baseline collagen deposition, independent of bleomycin-induced injury, further supporting its potential role in regulating inflammatory and fibrotic processes.
 
 However, these differences did not reach statistical significance, and therefore no definitive conclusions can be drawn. 
+
+##### <strong>5.1.2c qPCR</strong>
+
+Gene expression analysis was performed using qPCR to validate SOCS3 deletion at the molecular level. SOCS3 expression in control WT mice was set as the baseline (relative expression = 1) and compared to that in control knockout mice. Control WT mice exhibited significantly higher SOCS3 expression, with more than a twofold increase relative to knockout controls (p = 0.05), indicating effective Cre-mediated excision.
+
+After which, additional primers were used to assess the expression of key fibrosis-associated genes, including COL1A1, CCN2, and ACTA2. 
+1. COL1A1 encodes type I collagen and serves as a direct indicator of extracellular matrix deposition. 
+2. ACTA2 encodes α-smooth muscle actin, a marker of activated myofibroblasts that are primarily responsible for collagen synthesis during fibrosis.
+3. CCN2, connective tissue growth factor, acts as a key pro-fibrotic mediator that promotes cell adhesion, proliferation, and matrix production.
 
 
 
