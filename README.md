@@ -33,8 +33,8 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 **[1. Introduction](#1-introduction)** ............................................ **4**
   
 **[2. Bleomycin-induced Pulmonary Fibrosis](#2-models)** ........................................................ **6**
-  - [2.1 Bleomycin (BLM)-Induced Pulmonary Fibrosis (PF) Model](#21-bleomycin-induced-pulmonary-fibrosis-model-bipf) ......... 6
-  - [2.2 SOCS3 Protein and Signalling Pathway]  ............. 8
+  - [2.1 Bleomycin (BLM)-Induced Pulmonary Fibrosis (PF) Model](#21-Bleomycin-(BLM)-Induced-Pulmonary-Fibrosis-(PF)-Model) ......... 6
+  - [2.2 SOCS3 Protein and Signalling Pathway](#22-SOCS3-Protein-and-Signalling-Pathway)  ............. 8
 
 **[3. Research Hypothesis and Objectives](#3-research-hypothesis-and-objectives)** ...................... **8**
   - [3.1 Hypothesis](#31-hypothesis) ............................................. 8
@@ -44,27 +44,31 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
   - [4.1 Study Timeline](#41-study-timeline) ..................................... 9
   - [4.2 Ethical Considerations](#42-ethical-considerations) ..................... 10
   - [4.3 Rationale for SOCS3 Conditional Knockout Model](#43-experimental-design-for-pilot-study) ................. 10
-  - [4.4 Optimization - Pilot Study]
-
-**[5. Results and Discussion](#5-results-and-discussion)** ......................... **10**
-  - [5.1 Mice Body Weight and Lung Weight](#51-mice-body-weight-and-lung-weight) .. 10
-  - [5.2 SOCS3 Expression Validation in Lung](#52-socs3-expression-validation-in-lung) ................. 11
-  - [5.3 Hydroxyproline Assay Experiment](#53-hydroxyproline-assay-experiment) .... 11
-  - [5.4 Limitation with the Pilot Study](#54-limitation-with-the-pilot-study) ..... 12
-
-**[6. Conclusion](#6-conclusion)** ................................................ **12**
-
-**[7. Future Works](#7-future-works)** ............................................ **13**
-  - [7.1 Experimental Design for Main Experiment](#71-experimental-design-for-main-experiment) ......... 13
-  - [7.2 Mechanistic Properties](#72-mechanistic-properties) ..................... 13
-
-**[Bibliography](#bibliography)** ................................................ **14**
-
-**[Appendix](#appendix)** .................................................... **16**
+  - [4.4 Optimization - Pilot Study](#44-experimental-design-for-pilot-study) ................. 10
+  - [4.5 Experimental Design for Main Study 1](#45-experimental-design-for-main-study)................. 12
+  - [4.6 Experimental Design for Main Study 2](#46-experimental-design-for-main-study)................. 12
 
 
+**[5. Results and Discussion](#5-results-and-discussion)** ......................... **13**
+  - [5.1 Main Study 1](#51-main-study-1) ................. 13
+  - [5.1.1 Phenotype](#511-phenotype)................. 13
+  - [5.1.1 Phenotype](#511-phenotype)................. 13
+  - [5.1.2 Genotype](#511-genotype)................. 14
+  - [5.1.2.a Genotyping](#512a-pgenotyping)................. 14
+  - [5.1.2.b Hydroxyproline Assay Experiment](#512b-Hydroxyproline-Assay-Experiment)................. 14
+  - [5.1.2.c qPCR](#512c-qPCR)................. 15
+  - [5.2 Main Study 2](#52-main-study-2) ................. 17
+  - [5.2.1 Phenotype](#521-phenotype)................. 17
+  - [5.2.2 Genotype](#522-genotype)................. 17
+  - [5.2.2.a Genotyping](#522a-pgenotyping)................. 17
+  - [5.2.2.b Hydroxyproline Assay Experiment](#522b-Hydroxyproline-Assay-Experiment)................. 17
+  - [5.2.2.c qPCR](#522c-qPCR)................. 18
 
+**[6. Conclusion](#6-conclusion)** ................................................ **19**
 
+**[7. Future Works](#7-future-works)** ............................................ **20**
+  
+**[References](#references)** ................................................ **21**
 
 # <strong>1. Introduction</strong>
 Pulmonary fibrosis (PF) is a lung disease that occurs when the  lung tissue becomes damaged and scarred (refer to figure 1), resulting in fibrotic tissue blocking the movement of oxygen from inside the tiny air sacs in the lungs into the bloodstream (What Is Pulmonary Fibrosis?, 2025). In advanced stages, the lung tissue may develop a distinctive “honeycomb” appearance, which reflects extensive structural damage (Cheng, 2025). This pattern consists of numerous cystic airspaces with thick fibrous walls embedded within densely scarred tissue, which not only makes the lungs less efficient at delivering oxygen, but also reduces their ability to expand. This increased stiffness requires the lungs to work harder during breathing, demanding more energy, often leading to shortness of breath and difficulty performing everyday activities (Pulmonary Fibrosis - Symptoms and Causes, 2025). 
