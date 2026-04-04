@@ -248,6 +248,13 @@ Mice showing both the Cre band (~700 bp) and the floxed _SOCS3_ band (~420 bp) a
 #### <strong>5.1.2b Hydroxyproline Assay Experiment</strong>
 Hydroxyproline assay (HPA) was performed on lung lysates to assess collagen deposition as a measure of fibrosis severity. Within each genotype, bleomycin-treated mice showed an increase in hydroxyproline content compared to their respective control groups, indicating enhanced collagen accumulation following fibrotic induction (_refer to graph 3_).
 
+<div align="center">
+<img src="g3.png" alt="g3" width="600"><br>
+  
+_Graph 3. Hydorxyproline Assay Experiment of Main Study 1 mice_
+
+</div>
+
 Notably, when comparing bleomycin-treated groups across genotypes, knockout mice exhibited higher collagen levels compared to WT mice. This increased collagen deposition suggests that the absence of _SOCS3_ in myeloid cells may contribute to enhanced inflammation and fibrotic progression.
 
 Interestingly, collagen levels in control knockout mice were also higher than those observed in bleomycin-treated WT mice. This may indicate that _SOCS3_ deficiency alone is sufficient to elevate baseline collagen deposition, independent of bleomycin-induced injury, further supporting its potential role in regulating inflammatory and fibrotic processes.
@@ -256,14 +263,28 @@ However, these differences did not reach statistical significance, and therefore
 
 #### <strong>5.1.2c qPCR</strong>
 
-Gene expression analysis was performed using qPCR to validate _SOCS3_ deletion at the molecular level. _SOCS3_ expression in control WT mice was set as the baseline (relative expression = 1) and compared to that in control knockout mice. Control WT mice exhibited significantly higher _SOCS3_ expression, with more than a twofold increase relative to knockout controls (p = 0.05), indicating effective Cre-mediated excision.
+Gene expression analysis was performed using qPCR to validate _SOCS3_ deletion at the molecular level. _SOCS3_ expression in control WT mice was set as the baseline (relative expression = 1) and compared to that in control knockout mice. Control WT mice exhibited significantly higher _SOCS3_ expression, with more than a twofold increase relative to knockout controls (p = 0.05), indicating effective Cre-mediated excision (_refer to graph 4_).
+
+<div align="center">
+<img src="g4.png" alt="g4" width="600"><br>
+  
+_Graph 4. Validation of _SOCS3_ of Main Study 1 mice_
+
+</div>
 
 After which, additional primers were used to assess the expression of key fibrosis-associated genes, including COL1A1, CCN2, and ACTA2. 
 1. COL1A1 encodes type I collagen and serves as a direct indicator of extracellular matrix deposition (Collagen I (COL1A1) | Abcam, 2026). 
 2. ACTA2 encodes α-smooth muscle actin, a marker of activated myofibroblasts that are primarily responsible for collagen synthesis during fibrosis (ACTA2 Gene: MedlinePlus Genetics, 2023).
 3. CCN2, connective tissue growth factor, acts as a key pro-fibrotic mediator that promotes cell adhesion, proliferation, and matrix production (CCN2 | Abcam, 2026).
 
-Across all three genes, a similar expression pattern was observed. The control WT mice served as the baseline, with relative gene expression normalized to 1. Bleomycin-treated WT mice showed a marked decrease in relative gene expression compared to control WT mice. Specifically, COL1A1 expression was reduced by approximately 10-fold (p = 0.002), ACTA2 showed a decrease of close to 8-fold (p = 0.008), and CCN2 exhibited a 2-fold reduction, though not statistically significant (refer to graph 4-6).
+Across all three genes, a similar expression pattern was observed. The control WT mice served as the baseline, with relative gene expression normalized to 1. Bleomycin-treated WT mice showed a marked decrease in relative gene expression compared to control WT mice. Specifically, COL1A1 expression was reduced by approximately 10-fold (p = 0.002), ACTA2 showed a decrease of close to 8-fold (p = 0.008), and CCN2 exhibited a 2-fold reduction, though not statistically significant (_refer to graph 5-7_).
+
+<div align="center">
+<img src="g5-7.png" alt="g5-7" width="600"><br>
+  
+_Graph 5-7. Relative Gene Expression of Control WT and Bleomycin-treated WT mice from Main Study 1_
+
+</div>
 
 This trend may be attributed to the presence of intact _SOCS3_ in myeloid cells in these mice. The data suggest that _SOCS3_ could possibly be playing a protective role by dampening the inflammatory response, thereby limiting fibrotic progression even following bleomycin-induced injury. In this context, the injury response appears to be more tightly regulated when _SOCS3_ is present. 
 
