@@ -125,3 +125,9 @@ Within each genotype, a subset of mice received a single intratracheal dose of b
 
 Subsequently, RNA was isolated from lung tissues, followed by cDNA preparation for qPCR analysis to assess gene expression changes associated with fibrosis and SOCS3 deficiency.
 
+### <strong>4.6 Experimental Design for Main Study 2</strong>
+Main Study 2 followed a similar experimental design to Main Study 1. The primary difference was that a larger number of male and female mice were included per experimental subgroup (refer to figure 5) to account for potential sex-based differences in disease progression and response.
+
+All downstream analyses were performed as in Main Study 1. In Main Study 2, qPCR was further extended to include immune-related markers,  enabling the characterisation of immune cell subsets in the context of myeloid-specific SOCS3 deficiency and addressing the aims outlined in Objective 2.
+
+
