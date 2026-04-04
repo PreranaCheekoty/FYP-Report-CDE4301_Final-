@@ -107,7 +107,9 @@ Building on these advantages, our lab previously developed a humanized mouse mod
 
 <div align="center">
 <img src="fig2.png" alt="fig 2" width="600"><br>
-_Figure 1. Transcriptomic analysis of lung tissue from humanized mice_
+  
+_Figure 2. Transcriptomic analysis of lung tissue from humanized mice_
+
 </div>
 
 ### <strong>2.2 SOCS3 Protein and Signalling Pathway  </strong>
