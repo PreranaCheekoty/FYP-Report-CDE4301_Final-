@@ -77,7 +77,7 @@ Pulmonary fibrosis (PF) is a lung disease that occurs when the  lung tissue beco
 
 <div align="center">
 
-<img src="intro 1.png" alt="fig 1" width="600"><br><br>
+<img src="intro 1.png" alt="fig 1" width="600"><br>
 _Figure 1. Differences between a healthy lung and a lung affected by PF_
 </div>
 
