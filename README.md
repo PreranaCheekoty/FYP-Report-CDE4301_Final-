@@ -331,7 +331,7 @@ Unfortunately, there were insufficient reagents remaining in the Sigma-Aldrich k
 #### <strong>5.2.2c qPCR</strong>
 In contrast to the qPCR results from Main Study 1, all three genes, COL1A1, ACTA2, and CCN2 displayed a similar but opposite expression pattern in Main Study 2. The control WT mice served as the baseline, with relative gene expression normalized to 1. Bleomycin-treated WT mice exhibited a marked increase in relative gene expression compared to WT controls.
 
-Specifically, COL1A1 expression increased by approximately 3-fold (p = 0.008), ACTA2 showed a 2-fold increase (p = 0.04), and CCN2 exhibited a 1.5-fold increase (p = 0.04), with all changes reaching statistical significance (refer to graph 12-14).
+Specifically, COL1A1 expression increased by approximately 3-fold (p = 0.008), ACTA2 showed a 2-fold increase (p = 0.04), and CCN2 exhibited a 1.5-fold increase (p = 0.04), with all changes reaching statistical significance (refer to graph 13-15).
 
 This trend is consistent with the expected effects of bleomycin-induced injury, where increased expression of fibrosis-associated genes reflects enhanced extracellular matrix deposition and myofibroblast activation. In contrast to Main Study 1, where gene expression was unexpectedly suppressed, the upregulation observed here suggests a more typical fibrotic response following bleomycin treatment. This may indicate that the regulatory effects of _SOCS3_ observed in Main Study 1 were less pronounced in this cohort, or that variability in experimental conditions influenced the inflammatory and fibrotic response. 
 
