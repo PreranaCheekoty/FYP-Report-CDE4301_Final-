@@ -50,7 +50,7 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 
 
 **[5. Results and Discussion](#5-results-and-discussion)** ......................... **13**
-  - - [5.2 Main Study 1](#52-main-study-2)................. 13
+  - [5.2 Main Study 1](#52-main-study-2)................. 13
   - [5.2.1 Phenotype](#521-phenotype)................. 13
   - [5.2.2 Genotype](#522-genotype)................. 13
     - [5.2.2.a Genotyping](#522a-genotyping)................. 14
