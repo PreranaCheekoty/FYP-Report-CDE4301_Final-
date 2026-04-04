@@ -180,7 +180,7 @@ Building on the findings and limitations identified in the pilot study, main stu
 <div align="center">
 <img src="fig4.png" alt="fig 4" width="600"><br>
   
-_Figure 4. Experimental Design of Main Study 1_
+_Figure 4. Experimental design of Main Study 1_
 
 </div>
 
@@ -194,7 +194,7 @@ Main Study 2 followed a similar experimental design to Main Study 1. The primary
 <div align="center">
 
 <img src="fig5.png" alt="fig 5" width="600"><br>
-_Figure 1. Experimental Design of Main Study 2_
+_Figure 1. Experimental design of Main Study 2_
 </div>
 
 All downstream analyses were performed as in Main Study 1. In Main Study 2, qPCR was further extended to include immune-related markers,  enabling the characterisation of immune cell subsets in the context of myeloid-specific _SOCS3_ deficiency and addressing the aims outlined in Objective 2.
@@ -207,12 +207,26 @@ Phenotypic changes were assessed based on body weight and lung weight measuremen
 <div align="center">
 
 <img src="fig6.png" alt="fig 5" width="600"><br>
-_Figure 6. Monitoring Body Weight Changes_
+_Figure 6. Monitoring body weight changes_
 </div>
 
 Within genotype comparisons further highlighted these effects. Statistical analysis using Welch’s unpaired t-test confirmed that the decrease in body weight was significant in both groups, where the p-value for WT is 0.0198 and knockout is 0.001 (_refer to graph 1_) indicating that bleomycin treatment induced substantial weight loss in both genotypes. Some mice also displayed signs of physical distress, including uneven gait and altered weight distribution. 
 
-Post-harvest, lung weight analysis revealed that bleomycin-treated mice from both genotypes had significantly heavier lungs compared to their respective controls. The increase in lung weight, which corresponds to an approximate 1.5-2-fold rise, is consistent with fibrotic progression, where inflammatory infiltration and tissue remodeling contribute to increased lung mass. This change was statistically significant, with p = 0.0286 for WT and p = 0.003 for knockout. As expected, the lung-to-body weight ratio was elevated in bleomycin-treated groups, highlighting a clear negative correlation between body weight and lung weight and reflecting the combined systemic and organ-specific effects of bleomycin-induced injury.
+<div align="center">
+<img src="g1.png" alt="g1" width="600"><br>
+  
+_Graph 1. Body weight differences of Main Study 1 mice_
+
+</div>
+
+Post-harvest, lung weight analysis revealed that bleomycin-treated mice from both genotypes had significantly heavier lungs compared to their respective controls (_refer to graph 2_). The increase in lung weight, which corresponds to an approximate 1.5-2-fold rise, is consistent with fibrotic progression, where inflammatory infiltration and tissue remodeling contribute to increased lung mass. This change was statistically significant, with p = 0.0286 for WT and p = 0.003 for knockout. As expected, the lung-to-body weight ratio was elevated in bleomycin-treated groups, highlighting a clear negative correlation between body weight and lung weight and reflecting the combined systemic and organ-specific effects of bleomycin-induced injury.
+
+<div align="center">
+<img src="g2.png" alt="g2" width="600"><br>
+  
+_Graph 2. Lung weights of Main Study 1 mice_
+
+</div>
 
 ### <strong>5.1.2 Genotype</strong>
 #### <strong>5.1.2a Genotyping 1</strong>
@@ -223,7 +237,7 @@ For the WT mice, all samples displayed a single band at approximately 400-420 bp
 <div align="center">
 <img src="fig7.png" alt="fig 7" width="600"><br>
   
-_Figure 7. Genotyping of Mice in Main Study 1_
+_Figure 7. Genotyping of Main Study 1 mice_
 
 </div>
 
