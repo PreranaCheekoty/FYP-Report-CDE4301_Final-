@@ -138,8 +138,13 @@ All downstream analyses were performed as in Main Study 1. In Main Study 2, qPCR
 
 # <strong>7. Future Works </strong><br>
 While the initial findings provide valuable insights, there is considerable room for improvement to strengthen the conclusions. In general, increasing the sample size in future experiments would enhance statistical power, enabling more definitive results. Furthermore, standardising experimental conditions across studies will also be important to reduce variability, as differences observed between Main Study 1 and Main Study 2 suggest potential sensitivity to experimental or biological factors.
+
 A closer examination of individual experiments highlights several areas for improvement. In particular, repeating HPA is essential to validate collagen deposition findings. The absence of this assay in Main Study 2 represents a limitation, emphasizing the need to explore alternative commercially available kits to ensure continuity and reliability of the analysis.
+
 Furthermore, incorporating additional validation techniques such as western blotting, could strengthen the conclusions by confirming whether observed changes in gene expression translate into functional protein differences within lung tissue. Complementary histological analyses, including staining methods like Masson’s trichrome, would provide visual confirmation of fibrotic changes and offer further insight into tissue architecture.
+
 Given that the study hypothesis is linked to STAT3 signalling, future work should also directly assess STAT3 activation, for example through phospho-STAT3 analysis. This would provide mechanistic insight into how SOCS3 deficiency influences downstream signalling pathways.
+
 Finally, expanding the analysis of immune markers and cell populations through flow cytometry or single-cell sequencing would allow for a more detailed understanding of the immune landscape in SOCS3-deficient conditions. This would help to better characterise how specific immune cell subsets contribute to fibrosis progression.
+
 Together, these approaches would provide a more comprehensive understanding of the role of SOCS3 in pulmonary fibrosis and support the development of targeted therapeutic strategies.
