@@ -103,7 +103,6 @@ SOCS3 is known to function as a negative regulator of inflammatory signalling, p
 
 Given that persistent STAT3 activation has been linked to chronic inflammation and fibrosis, the observed upregulation of SOCS3 in the preliminary data may represent a natural response aimed at counteracting overactive STAT3 signalling. This makes SOCS3 a particularly relevant target protein for further investigation, as its absence in immune cells could disrupt this feedback control, leading to sustained STAT3 activation.
 
-
 # <strong>3. Research Hypothesis and Objectives</strong><br>
 ### <strong>3.1 Hypothesis </strong>
 The hypothesis for this dissertation is, “The lack of SOCS3 in myeloid cells leads to sustained STAT3 activation, thereby enhancing inflammation and promoting PF in murine models”. 
@@ -197,9 +196,9 @@ However, these differences did not reach statistical significance, and therefore
 Gene expression analysis was performed using qPCR to validate SOCS3 deletion at the molecular level. SOCS3 expression in control WT mice was set as the baseline (relative expression = 1) and compared to that in control knockout mice. Control WT mice exhibited significantly higher SOCS3 expression, with more than a twofold increase relative to knockout controls (p = 0.05), indicating effective Cre-mediated excision.
 
 After which, additional primers were used to assess the expression of key fibrosis-associated genes, including COL1A1, CCN2, and ACTA2. 
-1. COL1A1 encodes type I collagen and serves as a direct indicator of extracellular matrix deposition. 
-2. ACTA2 encodes α-smooth muscle actin, a marker of activated myofibroblasts that are primarily responsible for collagen synthesis during fibrosis.
-3. CCN2, connective tissue growth factor, acts as a key pro-fibrotic mediator that promotes cell adhesion, proliferation, and matrix production.
+1. COL1A1 encodes type I collagen and serves as a direct indicator of extracellular matrix deposition (Collagen I (COL1A1) | Abcam, 2026). 
+2. ACTA2 encodes α-smooth muscle actin, a marker of activated myofibroblasts that are primarily responsible for collagen synthesis during fibrosis (ACTA2 Gene: MedlinePlus Genetics, 2023).
+3. CCN2, connective tissue growth factor, acts as a key pro-fibrotic mediator that promotes cell adhesion, proliferation, and matrix production (CCN2 | Abcam, 2026).
 
 Across all three genes, a similar expression pattern was observed. The control WT mice served as the baseline, with relative gene expression normalized to 1. Bleomycin-treated WT mice showed a marked decrease in relative gene expression compared to control WT mice. Specifically, COL1A1 expression was reduced by approximately 10-fold (p = 0.002), ACTA2 showed a decrease of close to 8-fold (p = 0.008), and CCN2 exhibited a 2-fold reduction, though not statistically significant (refer to graph 4,5,6).
 
@@ -233,7 +232,7 @@ This trend is consistent with the expected effects of bleomycin-induced injury, 
 
 Similarly, the knockout genotype exhibited a comparable pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes (refer to graph 15-17). This increase may be attributed to the absence of SOCS3, resulting in a less regulated inflammatory response and enhanced fibrotic signalling within the lung following injury. Notably, this trend is consistent with observations from Main Study 1, further supporting the role of SOCS3 in modulating the fibrotic response.
 
-To further investigate the inflammatory component underlying these fibrotic changes, qPCR analysis of key immune markers was performed as part of Objective 2. The markers assessed included TNF-α, IL-6, IL-1β, and TGF-β. TNF-α and IL-1β are pro-inflammatory cytokines that play central roles in initiating and amplifying inflammatory responses. IL-6 is a multifunctional cytokine involved in both pro- and anti-inflammatory signalling, while TGF-β is a key regulator of fibrosis, promoting myofibroblast activation and extracellular matrix production.
+To further investigate the inflammatory component underlying these fibrotic changes, qPCR analysis of key immune markers was performed as part of Objective 2. The markers assessed included TNF-α, IL-6, IL-1β, and TGF-β. TNF-α (Jang et al., 2021) and IL-1β (Lopez-Castejon & Brough, 2011) are pro-inflammatory cytokines that play central roles in initiating and amplifying inflammatory responses. IL-6 (Scheller et al., 2011) is a multifunctional cytokine involved in both pro- and anti-inflammatory signalling, while TGF-β is a key regulator of fibrosis, promoting myofibroblast activation and extracellular matrix production (Frangogiannis, 2020).
 
 Across these immune markers, a generally consistent trend was observed, with the exception of IL-6. The control WT mice served as the baseline (normalized to 1), and bleomycin-treated WT mice exhibited a slight increase in relative gene expression compared to controls. However, these changes were minimal, with less than a one-fold difference, and did not reach statistical significance. Notably, IL-6 showed a decrease in expression following bleomycin treatment, suggesting a potentially distinct regulatory response compared to the other cytokines, potentially due to its dual role in both pro- and anti-inflammatory signalling (refer to graph 18).
 
@@ -315,7 +314,21 @@ Humanized Immune System Mice for Preclinical Research. (2023, October 2). Taconi
 
 Lamichhane, R., Patial, S., & Saini, Y. (2022). Higher susceptibility of males to bleomycin-induced pulmonary inflammation is associated with sex-specific transcriptomic differences in myeloid cells. Toxicology and Applied Pharmacology, 454, 116228. https://doi.org/10.1016/j.taap.2022.116228<br>
 
+Collagen I (COL1A1) | Abcam. (2026). Abcam.com. https://www.abcam.com/en-us/technical-resources/target-tips/collagen-icol1a1<br>
 
+‌ACTA2 gene: MedlinePlus Genetics. (2023). Medlineplus.gov. https://medlineplus.gov/genetics/gene/acta2/<br>
+
+‌CCN2 | Abcam. (2026). Abcam.com. https://www.abcam.com/en-us/targets/ccn2/1112<br>
+
+‌Jang, D., Lee, A-Hyeon., Shin, H.-Y., Song, H.-R., Park, J.-H., Kang, T.-B., Lee, S.-R., & Yang, S.-H. (2021). The Role of Tumor Necrosis Factor Alpha (TNF-α) in Autoimmune Disease and Current TNF-α Inhibitors in Therapeutics. International Journal of Molecular Sciences, 22(5), 2719. https://doi.org/10.3390/ijms22052719<br>
+
+‌Lopez-Castejon, G., & Brough, D. (2011). Understanding the mechanism of IL-1β secretion. Cytokine & Growth Factor Reviews, 22(4), 189–195. https://doi.org/10.1016/j.cytogfr.2011.10.001
+
+‌Scheller, J., Chalaris, A., Schmidt-Arras, D., & Rose-John, S. (2011). The pro- and anti-inflammatory properties of the cytokine interleukin-6. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1813(5), 878–888. https://doi.org/10.1016/j.bbamcr.2011.01.034
+
+‌Frangogiannis, N. G. (2020). Transforming growth factor–β in tissue fibrosis. Journal of Experimental Medicine, 217(3). https://doi.org/10.1084/jem.20190103
+
+‌
 
 ‌
 ‌
