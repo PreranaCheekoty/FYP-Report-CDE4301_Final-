@@ -175,7 +175,7 @@ Lastly, the exclusive use of female mice may limit the generalisability of the f
 Despite these limitations, the data obtained was significant to proceed with the main study, providing a strong foundation for further investigation. 
 
 ### <strong>4.5 Experimental Design for Main Study 1</strong>
-Building on the findings and limitations identified in the pilot study, main study 1 was designed with several key modifications. The study included 6 _SOCS3_fl/fl wild-type (WT) mice that were used as true controls and 10 LysmCre_SOCS3_fl/fl (knockout) mice (_refer to figure 4_). Unlike the pilot study, both male and female mice were included in main study 1 to improve the generalisability of the findings. 
+Building on the findings and limitations identified in the pilot study, main study 1 was designed with several key modifications. The study included 6 *SOCS3*<sup>fl/fl</sup> wild-type (WT) mice that were used as true controls and 10 LysM<sup>Cre</sup> *SOCS3*<sup>fl/fl</sup> (knockout) mice (_refer to figure 4_). Unlike the pilot study, both male and female mice were included in main study 1 to improve the generalisability of the findings. 
 
 <div align="center">
 <img src="fig4.png" alt="fig 4" width="600"><br>
@@ -210,7 +210,7 @@ For the WT mice, all samples displayed a single band at approximately 400-420 bp
 
 For the knockout mice, two separate PCR reactions were performed: one to detect the LysMCre transgene and another to confirm the _SOCS3_ floxed allele. In the LysMCre gel, a band at approximately 700 bp indicates Cre-positive mice, while the absence of this band (or the presence of a lower band around 350 bp) indicates Cre-negative mice. In the corresponding _SOCS3_ gel, bands around 420 bp confirm the presence of the floxed allele, whereas a smaller band (~250 bp) may reflect Cre-mediated recombination of Exon 2 in specific cells (refer to figure 7).
 
-Mice showing both the Cre band (~700 bp) and the floxed _SOCS3_ band (~420 bp) are therefore confirmed as LysMCre_SOCS3_fl/fl. This genotype is required for myeloid-specific deletion of _SOCS3_. Overall, the presence of bands at the expected sizes across both gels confirms the successful identification of both control and knockout mice used in this study.
+Mice showing both the Cre band (~700 bp) and the floxed _SOCS3_ band (~420 bp) are therefore confirmed as LysM<sup>Cre</sup> *SOCS3*<sup>fl/fl</sup>. This genotype is required for myeloid-specific deletion of _SOCS3_. Overall, the presence of bands at the expected sizes across both gels confirms the successful identification of both control and knockout mice used in this study.
 
 #### <strong>5.1.2b Hydroxyproline Assay Experiment</strong>
 Hydroxyproline assay (HPA) was performed on lung lysates to assess collagen deposition as a measure of fibrosis severity. Within each genotype, bleomycin-treated mice showed an increase in hydroxyproline content compared to their respective control groups, indicating enhanced collagen accumulation following fibrotic induction (refer to graph 2).
