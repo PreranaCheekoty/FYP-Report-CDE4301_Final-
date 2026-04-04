@@ -132,7 +132,7 @@ All downstream analyses were performed as in Main Study 1. In Main Study 2, qPCR
 
 # <strong>5. Results and Discussion </strong><br>
 ### <strong>5.1 Main Study 1</strong>
-##### <strong>5.1.1 Phenotype</strong>
+#### <strong>5.1.1 Phenotype</strong>
 Phenotypic changes were assessed based on body weight and lung weight measurements, with body weight monitored on days 1, 5, 8, and 12 (refer to figure 6). In the control group, both WT and knockout mice exhibited an increase in body weight of approximately 5-6% over the study period. In contrast, following bleomycin administration, mice of both genotypes experienced a marked reduction in body weight, with losses reaching approximately 20%, consistent with bleomycin-induced lung injury.
 
 Within genotype comparisons further highlighted these effects. Statistical analysis using Welch’s unpaired t-test confirmed that the decrease in body weight was significant in both groups, where the p-value for WT is 0.0198 and knockout is 0.001 (refer to graph 1) indicating that bleomycin treatment induced substantial weight loss in both genotypes. Some mice also displayed signs of physical distress, including uneven gait and altered weight distribution. 
@@ -140,7 +140,7 @@ Within genotype comparisons further highlighted these effects. Statistical analy
 Post-harvest, lung weight analysis revealed that bleomycin-treated mice from both genotypes had significantly heavier lungs compared to their respective controls. The increase in lung weight, which corresponds to an approximate 1.5-2-fold rise, is consistent with fibrotic progression, where inflammatory infiltration and tissue remodeling contribute to increased lung mass. This change was statistically significant, with p = 0.0286 for WT and p = 0.003 for knockout. As expected, the lung-to-body weight ratio was elevated in bleomycin-treated groups, highlighting a clear negative correlation between body weight and lung weight and reflecting the combined systemic and organ-specific effects of bleomycin-induced injury.
 
 ### <strong>5.1.2 Genotype</strong>
-##### <strong>5.1.2a Genotyping 1</strong>
+#### <strong>5.1.2a Genotyping 1</strong>
 Genotyping was performed using PCR and visualised by agarose gel electrophoresis, with a DNA ladder included in each gel as a reference for estimating band sizes. By comparing the position of the bands to the ladder, the genotype of each mouse was determined.
 
 For the WT mice, all samples displayed a single band at approximately 400-420 bp, corresponding to the expected size of the floxed SOCS3 allele (refer to figure 7). The presence of a single band at this position indicates that these mice are homozygous SOCS3fl/fl, meaning both copies of the gene contain loxP sites flanking Exon 2.
@@ -149,7 +149,7 @@ For the knockout mice, two separate PCR reactions were performed: one to detect 
 
 Mice showing both the Cre band (~700 bp) and the floxed SOCS3 band (~420 bp) are therefore confirmed as LysMCreSOCS3fl/fl. This genotype is required for myeloid-specific deletion of SOCS3. Overall, the presence of bands at the expected sizes across both gels confirms the successful identification of both control and knockout mice used in this study.
 
-##### <strong>5.1.2b Hydroxyproline Assay Experiment</strong>
+#### <strong>5.1.2b Hydroxyproline Assay Experiment</strong>
 Hydroxyproline assay (HPA) was performed on lung lysates to assess collagen deposition as a measure of fibrosis severity. Within each genotype, bleomycin-treated mice showed an increase in hydroxyproline content compared to their respective control groups, indicating enhanced collagen accumulation following fibrotic induction (refer to graph 2).
 
 Notably, when comparing bleomycin-treated groups across genotypes, knockout mice exhibited higher collagen levels compared to WT mice. This increased collagen deposition suggests that the absence of SOCS3 in myeloid cells may contribute to enhanced inflammation and fibrotic progression.
@@ -158,7 +158,7 @@ Interestingly, collagen levels in control knockout mice were also higher than th
 
 However, these differences did not reach statistical significance, and therefore no definitive conclusions can be drawn. 
 
-##### <strong>5.1.2c qPCR</strong>
+#### <strong>5.1.2c qPCR</strong>
 
 Gene expression analysis was performed using qPCR to validate SOCS3 deletion at the molecular level. SOCS3 expression in control WT mice was set as the baseline (relative expression = 1) and compared to that in control knockout mice. Control WT mice exhibited significantly higher SOCS3 expression, with more than a twofold increase relative to knockout controls (p = 0.05), indicating effective Cre-mediated excision.
 
@@ -167,7 +167,45 @@ After which, additional primers were used to assess the expression of key fibros
 2. ACTA2 encodes α-smooth muscle actin, a marker of activated myofibroblasts that are primarily responsible for collagen synthesis during fibrosis.
 3. CCN2, connective tissue growth factor, acts as a key pro-fibrotic mediator that promotes cell adhesion, proliferation, and matrix production.
 
+Across all three genes, a similar expression pattern was observed. The control WT mice served as the baseline, with relative gene expression normalized to 1. Bleomycin-treated WT mice showed a marked decrease in relative gene expression compared to control WT mice. Specifically, COL1A1 expression was reduced by approximately 10-fold (p = 0.002), ACTA2 showed a decrease of close to 8-fold (p = 0.008), and CCN2 exhibited a 2-fold reduction, though not statistically significant (refer to graph 4,5,6).
 
+This trend may be attributed to the presence of intact SOCS3 in myeloid cells in these mice. The data suggest that SOCS3 could possibly be playing a protective role by dampening the inflammatory response, thereby limiting fibrotic progression even following bleomycin-induced injury. In this context, the injury response appears to be more tightly regulated when SOCS3 is present. 
+
+In contrast, the knockout genotype exhibits a different pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1, similar to the control WT group. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes. This increase may be attributed to the absence of SOCS3, leading to a less regulated inflammatory response and enhanced fibrotic signaling within the lung following injury (refer to graph 7,8,9).
+
+Statistically significant increases were observed for ACTA2 and CCN2 (p = 0.007 for both), while COL1A1 also showed an upward trend, although this did not reach statistical significance.
+
+### <strong>5.2 Main Study 2</strong>
+#### <strong>5.2.1 Phenotype</strong>
+Phenotypic changes observed in Main Study 2 were consistent with those reported in Main Study 1. Control mice from both WT and knockout groups showed a slight increase in body weight of approximately 1-2% over the study period, whereas bleomycin-treated mice exhibited a marked reduction of approximately 20-25% (refer to graph 10). Statistical analysis using a one-way ANOVA confirmed that these changes were significant (p = 0.001). Signs of physical distress, including altered gait, and weight distribution were also observed in some treated animals. 
+
+Similarly, lung weights in bleomycin-treated mice were increased by approximately 1.5-2-fold compared to controls across both genotypes (refer to graph 11). This resulted in an elevated lung-to-body weight ratio, consistent with fibrotic progression driven by inflammation and tissue remodelling.
+
+Overall, a negative correlation between body weight and lung weight was again observed, reinforcing the relationship between weight loss and increased lung burden following bleomycin treatment.
+
+#### <strong>5.2.2 Genotype</strong>
+#### <strong>5.2.2a Genotyping 1</strong>
+Similar to Main Study 1, WT and knockout mice in Main Study 2 were genotyped prior to further experimentation.
+
+#### <strong>5.2.2b Hydroxyproline Assay Experiment</strong>
+Unfortunately, there were insufficient reagents remaining in the Sigma-Aldrich kit used for the hydroxyproline experiments. Due to safety regulations, the kit could no longer be procured, as the vendor had discontinued its sale. As a result, the experiment could not be carried out. However, repeating the experiment is important, as definitive conclusions could not be drawn from the data obtained in Main Study 1.
+
+#### <strong>5.2.2c qPCR</strong>
+In contrast to the qPCR results from Main Study 1, all three genes, COL1A1, ACTA2, and CCN2 displayed a similar but opposite expression pattern in Main Study 2. The control WT mice served as the baseline, with relative gene expression normalized to 1. Bleomycin-treated WT mice exhibited a marked increase in relative gene expression compared to WT controls.
+
+Specifically, COL1A1 expression increased by approximately 3-fold (p = 0.008), ACTA2 showed a 2-fold increase (p = 0.04), and CCN2 exhibited a 1.5-fold increase (p = 0.04), with all changes reaching statistical significance (refer to graph 12-14).
+
+This trend is consistent with the expected effects of bleomycin-induced injury, where increased expression of fibrosis-associated genes reflects enhanced extracellular matrix deposition and myofibroblast activation. In contrast to Main Study 1, where gene expression was unexpectedly suppressed, the upregulation observed here suggests a more typical fibrotic response following bleomycin treatment. This may indicate that the regulatory effects of SOCS3 observed in Main Study 1 were less pronounced in this cohort, or that variability in experimental conditions influenced the inflammatory and fibrotic response. 
+
+Similarly, the knockout genotype exhibited a comparable pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes (refer to graph 15-17). This increase may be attributed to the absence of SOCS3, resulting in a less regulated inflammatory response and enhanced fibrotic signalling within the lung following injury. Notably, this trend is consistent with observations from Main Study 1, further supporting the role of SOCS3 in modulating the fibrotic response.
+
+To further investigate the inflammatory component underlying these fibrotic changes, qPCR analysis of key immune markers was performed as part of Objective 2. The markers assessed included TNF-α, IL-6, IL-1β, and TGF-β. TNF-α and IL-1β are pro-inflammatory cytokines that play central roles in initiating and amplifying inflammatory responses. IL-6 is a multifunctional cytokine involved in both pro- and anti-inflammatory signalling, while TGF-β is a key regulator of fibrosis, promoting myofibroblast activation and extracellular matrix production.
+
+Across these immune markers, a generally consistent trend was observed, with the exception of IL-6. The control WT mice served as the baseline (normalized to 1), and bleomycin-treated WT mice exhibited a slight increase in relative gene expression compared to controls. However, these changes were minimal, with less than a one-fold difference, and did not reach statistical significance. Notably, IL-6 showed a decrease in expression following bleomycin treatment, suggesting a potentially distinct regulatory response compared to the other cytokines, potentially due to its dual role in both pro- and anti-inflammatory signalling (refer to graph 18).
+
+A similar pattern was observed in the knockout genotype. Control knockout mice again served as the baseline, while bleomycin-treated knockout mice demonstrated an increase in gene expression, with approximately a 1.5-2-fold upregulation across most markers(refer to graph 19). This further supports the notion that the absence of SOCS3 leads to a less controlled inflammatory response, contributing to enhanced fibrotic signalling in the lung. This trend is consistent with earlier findings and further supports the role of SOCS3 in regulating both inflammatory and fibrotic pathways.
+
+However, when comparing bleomycin-treated WT and knockout groups directly, no clear or consistent trend was observed across the immune markers. Although changes in relative gene expression were present, with some genes showing upregulation and others downregulation, these differences were not statistically significant. This variability suggests that the inflammatory response may be influenced by additional factors beyond SOCS3 deficiency alone, highlighting the complexity of immune regulation in bleomycin-induced pulmonary fibrosis.
 
 # <strong>6. Conclusion </strong><br>
 This study investigated the role of myeloid-specific SOCS3 deficiency in bleomycin-induced pulmonary fibrosis using a conditional knockout murine model. Overall, the findings suggest that SOCS3 plays a key regulatory role in both inflammatory and fibrotic processes within the lung.
