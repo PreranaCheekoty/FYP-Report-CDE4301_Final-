@@ -130,4 +130,6 @@ Main Study 2 followed a similar experimental design to Main Study 1. The primary
 
 All downstream analyses were performed as in Main Study 1. In Main Study 2, qPCR was further extended to include immune-related markers,  enabling the characterisation of immune cell subsets in the context of myeloid-specific SOCS3 deficiency and addressing the aims outlined in Objective 2.
 
-
+# <strong>5. Results and Discussion </strong><br>
+### <strong>5.1 Main Study 1</strong>
+##### <strong>5.1.1 Phenotype</strong>
