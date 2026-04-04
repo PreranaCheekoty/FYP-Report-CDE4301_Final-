@@ -220,6 +220,13 @@ Genotyping was performed using PCR and visualised by agarose gel electrophoresis
 
 For the WT mice, all samples displayed a single band at approximately 400-420 bp, corresponding to the expected size of the floxed _SOCS3_ allele (_refer to figure 7_). The presence of a single band at this position indicates that these mice are homozygous *SOCS3*<sup>fl/fl</sup>, meaning both copies of the gene contain loxP sites flanking Exon 2.
 
+<div align="center">
+<img src="fig7.png" alt="fig 7" width="600"><br>
+  
+_Figure 7. Genotyping of Mice in Main Study 1_
+
+</div>
+
 For the knockout mice, two separate PCR reactions were performed: one to detect the LysM<sup>Cre</sup> transgene and another to confirm the _SOCS3_ floxed allele. In the LysM<sup>Cre</sup> gel, a band at approximately 700 bp indicates Cre-positive mice, while the absence of this band (or the presence of a lower band around 350 bp) indicates Cre-negative mice. In the corresponding _SOCS3_ gel, bands around 420 bp confirm the presence of the floxed allele, whereas a smaller band (~250 bp) may reflect Cre-mediated recombination of Exon 2 in specific cells (refer to figure 7).
 
 Mice showing both the Cre band (~700 bp) and the floxed _SOCS3_ band (~420 bp) are therefore confirmed as LysM<sup>Cre</sup> *SOCS3*<sup>fl/fl</sup>. This genotype is required for myeloid-specific deletion of _SOCS3_. Overall, the presence of bands at the expected sizes across both gels confirms the successful identification of both control and knockout mice used in this study.
