@@ -73,15 +73,15 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 # <strong>1. Introduction</strong>
 Pulmonary fibrosis (PF) is a lung disease that occurs when the  lung tissue becomes damaged and scarred (refer to figure 1), resulting in fibrotic tissue blocking the movement of oxygen from inside the tiny air sacs in the lungs into the bloodstream (What Is Pulmonary Fibrosis?, 2025). In advanced stages, the lung tissue may develop a distinctive “honeycomb” appearance, which reflects extensive structural damage (Cheng, 2025). This pattern consists of numerous cystic airspaces with thick fibrous walls embedded within densely scarred tissue, which not only makes the lungs less efficient at delivering oxygen, but also reduces their ability to expand. This increased stiffness requires the lungs to work harder during breathing, demanding more energy, often leading to shortness of breath and difficulty performing everyday activities (Pulmonary Fibrosis - Symptoms and Causes, 2025). 
 
-PF is thought to occur due to genetic predisposition or environmental factors but in most cases  idiopathic pulmonary fibrosis (IPF) is the most common, affecting 13 to 20 people per 100,000 (NHLBI, NIH, 2023). Based on this prevalence, Singapore likely has around 1000 patients (More Than 70 Percent of Patients With IPF Are Males and Smokers or Ex-smokers, 2017). It appears to be quite prevalent in the Asia-Pacific region, with reported rates ranging from 0.57 to 4.51 per 10,000, largely due to South Korea, which records the highest incidence worldwide. In comparison, prevalence rates are slightly lower in North America from 2.40 to 2.98 per 10,000 and even lower in Europe, where incidence rates are 0.33 to 2.51 per 10,000. When prevalence estimates were compared to country-specific rare disease thresholds, IPF met the definition of a rare disease in all countries except South Korea (Maher et al., 2021). 
+PF is thought to occur due to genetic predisposition or environmental factors but in most cases  idiopathic pulmonary fibrosis (IPF) is the most common, affecting 13 to 20 people per 100,000 (Variations Emerge among Adults Living with Pulmonary Fibrosis, 2023). Based on this prevalence, Singapore likely has around 1000 patients (More Than 70 Percent of Patients With IPF Are Males and Smokers or Ex-smokers, 2017). It appears to be quite prevalent in the Asia-Pacific region, with reported rates ranging from 0.57 to 4.51 per 10,000, largely due to South Korea, which records the highest incidence worldwide. In comparison, prevalence rates are slightly lower in North America from 2.40 to 2.98 per 10,000 and even lower in Europe, where incidence rates are 0.33 to 2.51 per 10,000. When prevalence estimates were compared to country-specific rare disease thresholds, IPF met the definition of a rare disease in all countries except South Korea (Maher et al., 2021). 
 
-Although IPF is classified as a rare disease in most countries, it affects an estimated 3 million people worldwide, occurring predominantly in older adults (Koudstaal & Wijsenbeek, 2023). Studies have consistently shown that the mean age of patients with IPF is around 65 years (Collard, 2010), with the occurrence of IPF in young adults being extremely rare (Saeed et al., 2023). This strong association between age and IPF poses a growing concern in an ageing society like Singapore, where almost one in five citizens are aged 65 or older. This proportion is projected to rise to one in four by 2030, highlighting the need for earlier recognition and timely intervention (SG60: Why Ageing Needs a New Narrative in Singapore, 2025).
+Although IPF is classified as a rare disease in most countries, it affects an estimated 3 million people worldwide, occurring predominantly in older adults (Koudstaal & Wijsenbeek, 2023). Studies have consistently shown that the mean age of patients with IPF is around 65 years (Raghu et al., 2014), with the occurrence of IPF in young adults being extremely rare (Saeed et al., 2023). This strong association between age and IPF poses a growing concern in an ageing society like Singapore, where almost one in five citizens are aged 65 or older. This proportion is projected to rise to one in four by 2030, highlighting the need for earlier recognition and timely intervention (SG60: Why Ageing Needs a New Narrative in Singapore, 2025).
 
 More recently, PF has also been recognised as an important long-term complication following COVID-19 infection. According to one study (Hama Amin et al., 2022), 44.9%  of COVID-19 survivors were found to have developed PF. Similarly, another study reported lung fibrosis as a significant post-COVID complication, occurring in 42% of patients (Lazar et al., 2024). 
 
 Despite its increasing prevalence, only two antifibrotic drugs, pirfenidone and nintedanib, are available in the market. Although both drugs slow PF progression, they do not cure or reverse the disease (Man et al., 2024). As a result, the prognosis for patients remains poor, with a median survival rate of  three to five years after diagnosis.
 
-This limited therapeutic efficacy highlights the urgent need for the development of more effective treatments. However, the development of novel drugs for PF is hampered by significant challenges, including the lack of sensitive clinical outcomes and reliable biomarkers that can provide early indications of patient benefit (White et al., 2022). In addition, drug development in respiratory medicine is becoming increasingly time-consuming, with higher risks of failure and escalating costs (Barnes et al., 2015). These challenges are further compounded by the difficulty of accurately modelling the complex features of the disease in preclinical systems. 
+This limited therapeutic efficacy highlights the urgent need for the development of more effective treatments. However, the development of novel drugs for PF is hampered by significant challenges, including the lack of sensitive clinical outcomes and reliable biomarkers that can provide early indications of patient benefit (White et al., 2022). In addition, drug development in respiratory medicine is becoming increasingly time-consuming, with higher risks of failure and escalating costs (Sun et al., 2022). These challenges are further compounded by the difficulty of accurately modelling the complex features of the disease in preclinical systems. 
 
 # <strong>2. Bleomycin-induced Pulmonary Fibrosis</strong><br>
 ### <strong>2.1 Bleomycin (BLM)-Induced Pulmonary Fibrosis (PF) Model </strong>
@@ -269,10 +269,62 @@ Together, these approaches would provide a more comprehensive understanding of t
 
 # <strong>8. References </strong><br>
 
-What Is Pulmonary Fibrosis? (2025). Default. https://www.pulmonaryfibrosis.org/understanding-pff/about-pulmonary-fibrosis/what-is-pulmonary-fibrosis
+What Is Pulmonary Fibrosis? (2025). Default. https://www.pulmonaryfibrosis.org/understanding-pff/about-pulmonary-fibrosis/what-is-pulmonary-fibrosis<br>
 
-Pulmonary fibrosis - Symptoms and causes. (2025). Mayo Clinic; https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690
+Pulmonary fibrosis - Symptoms and causes. (2025). Mayo Clinic; https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690<br>
 
+Variations emerge among adults living with pulmonary fibrosis. (2023, April 4). NHLBI, NIH. https://www.nhlbi.nih.gov/news/2023/variations-emerge-among-adults-living-pulmonary-fibrosis?<br>
+
+More than 70 percent of patients with IPF are males and smokers or ex-smokers. (2017, October 3). https://www.philipeng.com.sg/wp-content/uploads/2018/02/More-than-70-percent-of-patients-with-IPF-are-males-and-smokers-or-ex-smokers.pdf<br>
+
+Maher, T. M., Bendstrup, E., Dron, L., Langley, J., Smith, G., Khalid, J. M., Patel, H., & Kreuter, M. (2021). Global incidence and prevalence of idiopathic pulmonary fibrosis. Respiratory Research, 22(1), 197–197. https://doi.org/10.1186/s12931-021-01791-z<br>
+
+Koudstaal, T., & Wijsenbeek, M. S. (2023). Idiopathic pulmonary fibrosis. La Presse Médicale, 52(3), 104166. https://doi.org/10.1016/j.lpm.2023.104166<br>
+
+Raghu, G., Chen, S.-Y., Yeh, W.-S., Maroni, B., Li, Q., Lee, Y.-C., & Collard, H. R. (2014). Idiopathic pulmonary fibrosis in US Medicare beneficiaries aged 65 years and older: incidence, prevalence, and survival, 2001–11. The Lancet Respiratory Medicine, 2(7), 566–572. https://doi.org/10.1016/s2213-2600(14)70101-8<br>
+
+‌Saeed, S., Mohammed, N., Maktabijahromi, N., Ekhator, C., & Arshad, M. (2023). Idiopathic Pulmonary Fibrosis in a Young Adult: A Rare Presentation and Management Challenges. Cureus. https://doi.org/10.7759/cureus.43010<br>
+
+SG60: Why ageing needs a new narrative in Singapore. (2025, August 12). The Straits Times. https://www.straitstimes.com/singapore/sg60-why-ageing-needs-a-new-narrative-in-singapore<br>
+
+‌Hama Amin, B. J., Kakamad, F. H., Ahmed, G. S., Ahmed, S. F., Abdulla, B. A., mohammed, S. H., Mikael, T. M., Salih, R. Q., Ali, R. k., Salh, A. M., & Hussein, D. A. (2022). Post COVID-19 pulmonary fibrosis; a meta-analysis study. Annals of Medicine & Surgery, 77. https://doi.org/10.1016/j.amsu.2022.103590<br>
+
+Lazar, M., Barbu, E. C., Chitu, C. E., Buzoianu, M., Petre, A. C., Tiliscan, C., Arama, S. S., Arama, V., Ion, D. A., & Olariu, M. C. (2024). Surviving COVID-19 and Battling Fibrosis: A Retrospective Cohort Study Across Three Pandemic Waves. Diagnostics, 14(24), 2811. https://doi.org/10.3390/diagnostics14242811<br>
+
+Man, R. K., Amaresh Gogikar, Nanda, A., Sai, L., Sambe, H. G., Yasir, M., & Shivana Ramphall. (2024). A Comparison of the Effectiveness of Nintedanib and Pirfenidone in Treating Idiopathic Pulmonary Fibrosis: A Systematic Review. Cureus, 16(2), e54268–e54268. https://doi.org/10.7759/cureus.54268<br>
+
+White, E. S., Thomas, M., Stowasser, S., & Tetzlaff, K. (2022). Challenges for Clinical Drug Development in Pulmonary Fibrosis. Frontiers in Pharmacology, 13. https://doi.org/10.3389/fphar.2022.823085<br>
+
+Sun, D., Gao, W., Hu, H., & Zhou, S. (2022). Why 90% of clinical drug development fails and how to improve it? Acta Pharmaceutica Sinica B, 12(7), 3049–3062. https://doi.org/10.1016/j.apsb.2022.02.002<br>
+
+Zhang, E., Yang, Y., Zhang, J., Ding, G., Chen, S., Peng, C., Lavin, M., Yeo, A., Du, Z., & Shao, H. (2019). Efficacy of bone marrow mesenchymal stem cell transplantation in animal models of pulmonary fibrosis after exposure to bleomycin: A meta‑analysis. Experimental and Therapeutic Medicine. https://doi.org/10.3892/etm.2019.7205<br>
+
+‌Southwest Journal of Pulmonary, Critical Care and Sleep - Pulmonary - A Case of Progressive Bleomycin Lung Toxicity Refractory to Steroid Therapy. (2023). Swjpcc.com. https://www.swjpcc.com/pulmonary/2023/6/10/a-case-of-progressive-bleomycin-lung-toxicity-refractory-to.html<br>
+
+‌Why do we use mice in research? (2026). Crick. https://www.crick.ac.uk/research/animal-research/why-and-how-we-use-animals/why-do-we-use-mice-in-research<br>
+
+‌Moeller, A., Ask, K., Warburton, D., Gauldie, J., & Kolb, M. (2008). The bleomycin animal model: A useful tool to investigate treatment options for idiopathic pulmonary fibrosis? The International Journal of Biochemistry & Cell Biology, 40(3), 362–382. https://doi.org/10.1016/j.biocel.2007.08.011<br>
+
+‌Tashiro, J., Rubio, G. A., Limper, A. H., Williams, K., Elliot, S. J., Ninou, I., Aidinis, V., Tzouvelekis, A., & Glassberg, M. K. (2017). Exploring Animal Models That Resemble Idiopathic Pulmonary Fibrosis. Frontiers in Medicine, 4. https://doi.org/10.3389/fmed.2017.00118<br>
+‌
+Zhang, E., Yang, Y., Zhang, J., Ding, G., Chen, S., Peng, C., Lavin, M., Yeo, A., Du, Z., & Shao, H. (2019). Efficacy of bone marrow mesenchymal stem cell transplantation in animal models of pulmonary fibrosis after exposure to bleomycin: A meta‑analysis. Experimental and Therapeutic Medicine. https://doi.org/10.3892/etm.2019.7205<br>
+
+Humanized Immune System Mice for Preclinical Research. (2023, October 2). Taconic Biosciences. https://www.taconic.com/products/mouse-rat/nog-portfolio/humanized-immune-system-mice
+
+‌Yoshimura, A., Naka, T., & Kubo, M. (2007). SOCS proteins, cytokine signalling and immune regulation. Nature Reviews. Immunology, 7(6), 454–465. https://doi.org/10.1038/nri2093<br>
+
+Lamichhane, R., Patial, S., & Saini, Y. (2022). Higher susceptibility of males to bleomycin-induced pulmonary inflammation is associated with sex-specific transcriptomic differences in myeloid cells. Toxicology and Applied Pharmacology, 454, 116228. https://doi.org/10.1016/j.taap.2022.116228<br>
+
+
+
+‌
+‌
+
+‌
+
+‌
+‌
+‌
 
 
 ‌
