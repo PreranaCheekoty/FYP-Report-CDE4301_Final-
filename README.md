@@ -35,7 +35,7 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 - [1. Introduction](#1-introduction) ............................................ 4
 
 - [2. Bleomycin-induced Pulmonary Fibrosis](#2-bleomycin-induced-pulmonary-fibrosis) ............................................ 6
-  - [2.1 Bleomycin BLM-Induced Pulmonary Fibrosis PF Model](#2.1-bleomycin-blm-induced-pulmonary-fibrosis-pf-model) .......... 6
+  - [2.1 Bleomycin BLM-Induced Pulmonary Fibrosis PF Model](#21-bleomycin-(blm)-induced-pulmonary-fibrosis-(pf)-model) .......... 6
   - [2.2 SOCS3 Protein and Signalling Pathway](#22-socs3-protein-and-signalling-pathway) .......... 8
 
 - [3. Research Hypothesis and Objectives](#3-research-hypothesis-and-objectives) ...................... 8
