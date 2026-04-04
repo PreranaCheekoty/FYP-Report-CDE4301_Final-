@@ -95,3 +95,10 @@ After optimizing these experimental conditions, the main experiments were conduc
 Prior to commencing any experiments, training at the A*STAR’s Biological Resource Centre was completed to ensure full compliance with ethical standards for mouse care, in strict accordance with protocols approved by the Institutional Animal Care and Use Committee. 
 
 ### <strong>4.3 Rationale for SOCS3 Conditional Knockout Model</strong>
+Structurally, SOCS3 is a relatively small protein comprising 225 amino acids, with an approximate molecular weight of 24.75 kDa, spanning approximately 850 base pairs on chromosome 17q25.3. It consists of two exons, with Exon 2 being functionally critical as it encodes key domains including SH2 and SOCS, required for inhibitory activity.
+
+To investigate the role of SOCS3 in immune regulation within myeloid cells, a conditional knockout strategy was employed. LoxP sites were inserted flanking Exon 2, allowing targeted deletion of this functional region. In the absence of Cre recombinase, the gene remains intact and fully functional. However, when Cre is expressed, it recognises the loxP sites and excises Exon 2, resulting in loss of functional SOCS3 protein.
+
+For myeloid-specific deletion, the LysMCre mouse model is widely used, in which Cre recombinase expression is driven by the Lyz2 promoter, active in myeloid cells including macrophages, monocytes, and granulocytes. Crossing LysMCre mice with SOCS3fl/fl mice (refer to figure 3) results in Cre-mediated recombination in these cells, leading to targeted SOCS3 deletion in the myeloid compartment.
+
+This model allows targeted investigation of SOCS3 in immune responses and its contribution to inflammation and fibrosis, forming the basis for the pilot and main studies described below. 
