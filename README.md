@@ -36,8 +36,8 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 - [2.2 SOCS3 Protein and Signalling Pathway](#22-socs3-protein-and-signalling-pathway) ............. 8
 
 **[3. Research Hypothesis and Objectives](#3-research-hypothesis-and-objectives)** ...................... **8**
-- [3.1 Hypothesis](#31-hypothesis) ............................................. 8
-- [3.2 Objectives](#32-objectives) ............................................. 8
+- [3.1 Hypothesis](#31-Hypothesis) ............................................. 8
+- [3.2 Objectives](#32-Objectives) ............................................. 8
 
 **[4. Methodology](#4-methodology)** .............................................. **9**
 - [4.1 Study Timeline](#41-study-timeline) ..................................... 9
