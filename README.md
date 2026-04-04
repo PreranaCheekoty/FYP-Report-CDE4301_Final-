@@ -148,7 +148,14 @@ Structurally, _SOCS3_ is a relatively small protein comprising 225 amino acids, 
 
 To investigate the role of _SOCS3_ in immune regulation within myeloid cells, a conditional knockout strategy was employed. LoxP sites were inserted flanking Exon 2, allowing targeted deletion of this functional region. In the absence of Cre recombinase, the gene remains intact and fully functional. However, when Cre is expressed, it recognises the loxP sites and excises Exon 2, resulting in loss of functional _SOCS3_protein.
 
-For myeloid-specific deletion, the LysMCre mouse model is widely used, in which Cre recombinase expression is driven by the Lyz2 promoter, active in myeloid cells including macrophages, monocytes, and granulocytes. Crossing LysMCre mice with _SOCS3_fl/fl mice (refer to figure 3) results in Cre-mediated recombination in these cells, leading to targeted _SOCS3_ deletion in the myeloid compartment.
+For myeloid-specific deletion, the LysMCre mouse model is widely used, in which Cre recombinase expression is driven by the Lyz2 promoter, active in myeloid cells including macrophages, monocytes, and granulocytes. Crossing LysMCre mice with _SOCS3_fl/fl mice (_refer to figure 3_) results in Cre-mediated recombination in these cells, leading to targeted _SOCS3_ deletion in the myeloid compartment.
+
+<div align="center">
+<img src="fig3.png" alt="fig 2" width="600"><br>
+  
+_Figure 3. Transcriptomic analysis of lung tissue from humanized mice_
+
+</div>
 
 This model allows targeted investigation of _SOCS3_ in immune responses and its contribution to inflammation and fibrosis, forming the basis for the pilot and main studies described below. 
 
