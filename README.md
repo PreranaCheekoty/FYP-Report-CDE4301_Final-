@@ -140,6 +140,14 @@ Within genotype comparisons further highlighted these effects. Statistical analy
 Post-harvest, lung weight analysis revealed that bleomycin-treated mice from both genotypes had significantly heavier lungs compared to their respective controls. The increase in lung weight, which corresponds to an approximate 1.5-2-fold rise, is consistent with fibrotic progression, where inflammatory infiltration and tissue remodeling contribute to increased lung mass. This change was statistically significant, with p = 0.0286 for WT and p = 0.003 for knockout. As expected, the lung-to-body weight ratio was elevated in bleomycin-treated groups, highlighting a clear negative correlation between body weight and lung weight and reflecting the combined systemic and organ-specific effects of bleomycin-induced injury.
 
 ##### <strong>5.1.2 Genotype</strong>
+Genotyping was performed using PCR and visualised by agarose gel electrophoresis, with a DNA ladder included in each gel as a reference for estimating band sizes. By comparing the position of the bands to the ladder, the genotype of each mouse was determined.
+
+For the WT mice, all samples displayed a single band at approximately 400-420 bp, corresponding to the expected size of the floxed SOCS3 allele (refer to figure 7). The presence of a single band at this position indicates that these mice are homozygous SOCS3fl/fl, meaning both copies of the gene contain loxP sites flanking Exon 2.
+
+For the knockout mice, two separate PCR reactions were performed: one to detect the LysMCre transgene and another to confirm the SOCS3 floxed allele. In the LysMCre gel, a band at approximately 700 bp indicates Cre-positive mice, while the absence of this band (or the presence of a lower band around 350 bp) indicates Cre-negative mice. In the corresponding SOCS3 gel, bands around 420 bp confirm the presence of the floxed allele, whereas a smaller band (~250 bp) may reflect Cre-mediated recombination of Exon 2 in specific cells (refer to figure 7).
+
+Mice showing both the Cre band (~700 bp) and the floxed SOCS3 band (~420 bp) are therefore confirmed as LysMCreSOCS3fl/fl. This genotype is required for myeloid-specific deletion of SOCS3. Overall, the presence of bands at the expected sizes across both gels confirms the successful identification of both control and knockout mice used in this study.
+
 
 
 # <strong>6. Conclusion </strong><br>
