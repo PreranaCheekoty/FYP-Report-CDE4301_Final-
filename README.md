@@ -69,3 +69,17 @@ SOCS3 is known to function as a negative regulator of inflammatory signalling, p
 
 Given that persistent STAT3 activation has been linked to chronic inflammation and fibrosis, the observed upregulation of SOCS3 in the preliminary data may represent a natural response aimed at counteracting overactive STAT3 signalling. This makes SOCS3 a particularly relevant target protein for further investigation, as its absence in immune cells could disrupt this feedback control, leading to sustained STAT3 activation.
 
+
+# <strong>3. Research Hypothesis and Objectives</strong><br>
+### <strong>3.1 Hypothesis </strong>
+The hypothesis for this dissertation is, “The lack of SOCS3 in myeloid cells leads to sustained STAT3 activation, thereby enhancing inflammation and promoting PF in murine models”. 
+
+### <strong>3.2 Objectives </strong>
+Based on this hypothesis, the study is structured around two main objectives:
+1. Effect of myeloid specific SOCS3 deficiency on bleomycin induced pulmonary fibrosis 
+2. Effect of myeloid specific SOCS3 deficiency on immune markers in bleomycin induced fibrotic lung
+   
+This FYP primarily focused on Objective 1, beginning with validation of the conditional knockout mouse model, followed by phenotypic characterization of SOCS3 deficiency in myeloid cells after bleomycin treatment. Phenotypic assessments included measurements of body weight and lung weight. Genotypic effects of SOCS3 deficiency were confirmed by evaluating SOCS3 expression using Hydroxyproline Assay (HPA) and quantitative PCR (qPCR). Experimental workflows were optimized during the pilot study to ensure reliable and reproducible results.
+Preliminary work for Objective 2 was initiated to investigate the potential impact of myeloid-specific SOCS3 deficiency on immune markers in bleomycin-induced fibrotic lungs, with qPCR used to assess genes associated with various immune cell populations.
+
+It should be noted that all work conducted during this FYP focused on validating the conditional knockout model and assessing phenotypic and genotypic effects. The study was not designed to directly investigate STAT3 activation or its associated signalling pathways.
