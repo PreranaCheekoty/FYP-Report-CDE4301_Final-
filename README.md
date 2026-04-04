@@ -266,7 +266,7 @@ However, these differences did not reach statistical significance, and therefore
 Gene expression analysis was performed using qPCR to validate _SOCS3_ deletion at the molecular level. _SOCS3_ expression in control WT mice was set as the baseline (relative expression = 1) and compared to that in control knockout mice. Control WT mice exhibited significantly higher _SOCS3_ expression, with more than a twofold increase relative to knockout controls (p = 0.05), indicating effective Cre-mediated excision (_refer to graph 4_).
 
 <div align="center">
-<img src="g4.png" alt="g4" width="600"><br>
+<img src="g4.png" alt="g4" width="400"><br>
   
 _Graph 4. Validation of _SOCS3_ of Main Study 1 mice_
 
