@@ -151,9 +151,9 @@ To investigate the role of _SOCS3_ in immune regulation within myeloid cells, a 
 For myeloid-specific deletion, the LysMCre mouse model is widely used, in which Cre recombinase expression is driven by the Lyz2 promoter, active in myeloid cells including macrophages, monocytes, and granulocytes. Crossing LysMCre mice with _SOCS3_fl/fl mice (_refer to figure 3_) results in Cre-mediated recombination in these cells, leading to targeted _SOCS3_ deletion in the myeloid compartment.
 
 <div align="center">
-<img src="fig3.png" alt="fig 2" width="600"><br>
+<img src="fig3.png" alt="fig 3" width="600"><br>
   
-_Figure 3. Transcriptomic analysis of lung tissue from humanized mice_
+_Figure 3. Breeding strategy for conditional SOCS3 knockout mice_
 
 </div>
 
