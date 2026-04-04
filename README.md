@@ -20,7 +20,7 @@
 </div>
 <br><br>
 <br><br>
-# <strong>Acknowledgements</strong><br>
+# <strong> Acknowledgements</strong><br>
 <br>I would firstly like to thank my supervisor, Dr Tang Kok Zuea, for his unwavering guidance and encouragement. His advice and steady support have been instrumental in shaping my approach and helping me grow through this project.
 I would also like to extend my heartfelt gratitude to my PI, Prof. Amit Singhal, for his invaluable support. His insights, constructive feedback, and vision have been a constant source of inspiration, enabling me to push myself further and gain a deeper understanding of my work.
 I am especially thankful to my supervisor, Dr. Sheetal, for her patient mentorship. Her willingness to provide direction, clarify doubts, and offer thoughtful advice has been an anchor throughout the duration of the project.
@@ -28,7 +28,7 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 </div>
 </div>
 <br><br>
-#<strong>Table of Contents</strong><br>
+#<strong> Table of Contents</strong><br>
 
 
 
