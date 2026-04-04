@@ -309,7 +309,7 @@ Zhang, E., Yang, Y., Zhang, J., Ding, G., Chen, S., Peng, C., Lavin, M., Yeo, A.
 ‌
 Zhang, E., Yang, Y., Zhang, J., Ding, G., Chen, S., Peng, C., Lavin, M., Yeo, A., Du, Z., & Shao, H. (2019). Efficacy of bone marrow mesenchymal stem cell transplantation in animal models of pulmonary fibrosis after exposure to bleomycin: A meta‑analysis. Experimental and Therapeutic Medicine. https://doi.org/10.3892/etm.2019.7205<br>
 
-Humanized Immune System Mice for Preclinical Research. (2023, October 2). Taconic Biosciences. https://www.taconic.com/products/mouse-rat/nog-portfolio/humanized-immune-system-mice
+Humanized Immune System Mice for Preclinical Research. (2023, October 2). Taconic Biosciences. https://www.taconic.com/products/mouse-rat/nog-portfolio/humanized-immune-system-mice<br>
 
 ‌Yoshimura, A., Naka, T., & Kubo, M. (2007). SOCS proteins, cytokine signalling and immune regulation. Nature Reviews. Immunology, 7(6), 454–465. https://doi.org/10.1038/nri2093<br>
 
