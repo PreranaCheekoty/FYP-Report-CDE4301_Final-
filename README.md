@@ -146,7 +146,7 @@ Prior to commencing any experiments, training at the A*STAR’s Biological Resou
 ### <strong>4.3 Rationale for SOCS3 Conditional Knockout Model</strong>
 Structurally, _SOCS3_ is a relatively small protein comprising 225 amino acids, with an approximate molecular weight of 24.75 kDa, spanning approximately 850 base pairs on chromosome 17q25.3. It consists of two exons, with Exon 2 being functionally critical as it encodes key domains including SH2 and SOCS, required for inhibitory activity.
 
-To investigate the role of _SOCS3_ in immune regulation within myeloid cells, a conditional knockout strategy was employed. LoxP sites were inserted flanking Exon 2, allowing targeted deletion of this functional region. In the absence of Cre recombinase, the gene remains intact and fully functional. However, when Cre is expressed, it recognises the loxP sites and excises Exon 2, resulting in loss of functional _SOCS3_protein.
+To investigate the role of _SOCS3_ in immune regulation within myeloid cells, a conditional knockout strategy was employed. LoxP sites were inserted flanking Exon 2, allowing targeted deletion of this functional region. In the absence of Cre recombinase, the gene remains intact and fully functional. However, when Cre is expressed, it recognises the loxP sites and excises Exon 2, resulting in loss of functional _SOCS3_ protein.
 
 For myeloid-specific deletion, the LysMCre mouse model is widely used, in which Cre recombinase expression is driven by the Lyz2 promoter, active in myeloid cells including macrophages, monocytes, and granulocytes. Crossing LysMCre mice with _SOCS3_fl/fl mice (_refer to figure 3_) results in Cre-mediated recombination in these cells, leading to targeted _SOCS3_ deletion in the myeloid compartment.
 
@@ -160,7 +160,7 @@ _Figure 3. Breeding strategy for conditional SOCS3 knockout mice_
 This model allows targeted investigation of _SOCS3_ in immune responses and its contribution to inflammation and fibrosis, forming the basis for the pilot and main studies described below. 
 
 ### <strong>4.4 Optimization - Pilot Study</strong>
-For the pilot study, two mouse strains were used: LysMCre_SOCS3_fl/fl, representing complete myeloid-specific _SOCS3_ deletion, and LysMCre_SOCS3_fl/wt serving as a heterozygous partial control with one functional SOCS3 allele, with all mice being female. Genotyping was then performed to confirm the genetic status of the mice, verifying the presence of both heterozygous and homozygous _SOCS3_ deletions within the experimental cohort. 
+For the pilot study, two mouse strains were used: LysM<sup>Cre</sup> *SOCS3*<sup>fl/fl</sup>, representing complete myeloid-specific _SOCS3_ deletion, and LysM<sup>Cre</sup> *SOCS3*<sup>fl/wt</sup> serving as a heterozygous partial control with one functional SOCS3 allele, with all mice being female. Genotyping was then performed to confirm the genetic status of the mice, verifying the presence of both heterozygous and homozygous _SOCS3_ deletions within the experimental cohort. 
 
 Within each genotype, a subset of mice received a single intratracheal dose of bleomycin (2.5 U/kg) to induce PF, while the remaining mice were maintained as baseline controls. Initial phenotypic assessment involved monitoring body weight changes on days 1, 5, 8, and 12 over a 13-day period, during which bleomycin-treated mice showed a significant reduction in body weight.
 
@@ -196,7 +196,7 @@ All downstream analyses were performed as in Main Study 1. In Main Study 2, qPCR
 # <strong>5. Results and Discussion </strong><br>
 ### <strong>5.1 Main Study 1</strong>
 #### <strong>5.1.1 Phenotype</strong>
-Phenotypic changes were assessed based on body weight and lung weight measurements, with body weight monitored on days 1, 5, 8, and 12 (refer to figure 6). In the control group, both WT and knockout mice exhibited an increase in body weight of approximately 5-6% over the study period. In contrast, following bleomycin administration, mice of both genotypes experienced a marked reduction in body weight, with losses reaching approximately 20%, consistent with bleomycin-induced lung injury.
+Phenotypic changes were assessed based on body weight and lung weight measurements, with body weight monitored on days 1, 5, 8, and 12 (_refer to figure 6_). In the control group, both WT and knockout mice exhibited an increase in body weight of approximately 5-6% over the study period. In contrast, following bleomycin administration, mice of both genotypes experienced a marked reduction in body weight, with losses reaching approximately 20%, consistent with bleomycin-induced lung injury.
 
 Within genotype comparisons further highlighted these effects. Statistical analysis using Welch’s unpaired t-test confirmed that the decrease in body weight was significant in both groups, where the p-value for WT is 0.0198 and knockout is 0.001 (refer to graph 1) indicating that bleomycin treatment induced substantial weight loss in both genotypes. Some mice also displayed signs of physical distress, including uneven gait and altered weight distribution. 
 
@@ -206,7 +206,7 @@ Post-harvest, lung weight analysis revealed that bleomycin-treated mice from bot
 #### <strong>5.1.2a Genotyping 1</strong>
 Genotyping was performed using PCR and visualised by agarose gel electrophoresis, with a DNA ladder included in each gel as a reference for estimating band sizes. By comparing the position of the bands to the ladder, the genotype of each mouse was determined.
 
-For the WT mice, all samples displayed a single band at approximately 400-420 bp, corresponding to the expected size of the floxed _SOCS3_ allele (refer to figure 7). The presence of a single band at this position indicates that these mice are homozygous _SOCS3_fl/fl, meaning both copies of the gene contain loxP sites flanking Exon 2.
+For the WT mice, all samples displayed a single band at approximately 400-420 bp, corresponding to the expected size of the floxed _SOCS3_ allele (_refer to figure 7_). The presence of a single band at this position indicates that these mice are homozygous *SOCS3*<sup>fl/fl</sup>, meaning both copies of the gene contain loxP sites flanking Exon 2.
 
 For the knockout mice, two separate PCR reactions were performed: one to detect the LysMCre transgene and another to confirm the _SOCS3_ floxed allele. In the LysMCre gel, a band at approximately 700 bp indicates Cre-positive mice, while the absence of this band (or the presence of a lower band around 350 bp) indicates Cre-negative mice. In the corresponding _SOCS3_ gel, bands around 420 bp confirm the presence of the floxed allele, whereas a smaller band (~250 bp) may reflect Cre-mediated recombination of Exon 2 in specific cells (refer to figure 7).
 
