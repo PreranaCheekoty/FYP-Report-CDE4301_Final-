@@ -175,7 +175,14 @@ Lastly, the exclusive use of female mice may limit the generalisability of the f
 Despite these limitations, the data obtained was significant to proceed with the main study, providing a strong foundation for further investigation. 
 
 ### <strong>4.5 Experimental Design for Main Study 1</strong>
-Building on the findings and limitations identified in the pilot study, main study 1 was designed with several key modifications. The study included 6 _SOCS3_fl/fl wild-type (WT) mice that were used as true controls and 10 LysmCre_SOCS3_fl/fl (knockout) mice (refer to figure 4). Unlike the pilot study, both male and female mice were included in main study 1 to improve the generalisability of the findings. 
+Building on the findings and limitations identified in the pilot study, main study 1 was designed with several key modifications. The study included 6 _SOCS3_fl/fl wild-type (WT) mice that were used as true controls and 10 LysmCre_SOCS3_fl/fl (knockout) mice (_refer to figure 4_). Unlike the pilot study, both male and female mice were included in main study 1 to improve the generalisability of the findings. 
+
+<div align="center">
+<img src="fig4.png" alt="fig 4" width="600"><br>
+  
+_Figure 4. Experimental Design of Main Study 1_
+
+</div>
 
 Within each genotype, a subset of mice received a single intratracheal dose of bleomycin (2.5 U/kg) to induce PF, while the remaining mice were maintained as baseline controls. Mice were monitored over a 13-day period, consistent with the pilot study design, before being sacrificed for tissue collection. Lung tissues were harvested for downstream analysis, while serum samples were not collected due to the limitations identified in the pilot study regarding the reliability of serum hydroxyproline as an indicator of lung fibrosis.
 
