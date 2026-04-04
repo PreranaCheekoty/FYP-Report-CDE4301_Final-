@@ -305,7 +305,7 @@ Zhang, E., Yang, Y., Zhang, J., Ding, G., Chen, S., Peng, C., Lavin, M., Yeo, A.
 ‌Moeller, A., Ask, K., Warburton, D., Gauldie, J., & Kolb, M. (2008). The bleomycin animal model: A useful tool to investigate treatment options for idiopathic pulmonary fibrosis? The International Journal of Biochemistry & Cell Biology, 40(3), 362–382. https://doi.org/10.1016/j.biocel.2007.08.011<br>
 
 ‌Tashiro, J., Rubio, G. A., Limper, A. H., Williams, K., Elliot, S. J., Ninou, I., Aidinis, V., Tzouvelekis, A., & Glassberg, M. K. (2017). Exploring Animal Models That Resemble Idiopathic Pulmonary Fibrosis. Frontiers in Medicine, 4. https://doi.org/10.3389/fmed.2017.00118<br>
-‌
+
 Zhang, E., Yang, Y., Zhang, J., Ding, G., Chen, S., Peng, C., Lavin, M., Yeo, A., Du, Z., & Shao, H. (2019). Efficacy of bone marrow mesenchymal stem cell transplantation in animal models of pulmonary fibrosis after exposure to bleomycin: A meta‑analysis. Experimental and Therapeutic Medicine. https://doi.org/10.3892/etm.2019.7205<br>
 
 Humanized Immune System Mice for Preclinical Research. (2023, October 2). Taconic Biosciences. https://www.taconic.com/products/mouse-rat/nog-portfolio/humanized-immune-system-mice<br>
