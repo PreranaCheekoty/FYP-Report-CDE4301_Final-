@@ -269,3 +269,10 @@ Together, these approaches would provide a more comprehensive understanding of t
 
 # <strong>8. References </strong><br>
 
+What Is Pulmonary Fibrosis? (2025). Default. https://www.pulmonaryfibrosis.org/understanding-pff/about-pulmonary-fibrosis/what-is-pulmonary-fibrosis
+
+Pulmonary fibrosis - Symptoms and causes. (2025). Mayo Clinic; https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690
+
+
+
+‌
