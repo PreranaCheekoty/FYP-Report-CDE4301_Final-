@@ -241,12 +241,12 @@ _Figure 7. Genotyping of Main Study 1 mice_
 
 </div>
 
-For the knockout mice, two separate PCR reactions were performed: one to detect the LysM<sup>Cre</sup> transgene and another to confirm the _SOCS3_ floxed allele. In the LysM<sup>Cre</sup> gel, a band at approximately 700 bp indicates Cre-positive mice, while the absence of this band (or the presence of a lower band around 350 bp) indicates Cre-negative mice. In the corresponding _SOCS3_ gel, bands around 420 bp confirm the presence of the floxed allele, whereas a smaller band (~250 bp) may reflect Cre-mediated recombination of Exon 2 in specific cells (refer to figure 7).
+For the knockout mice, two separate PCR reactions were performed: one to detect the LysM<sup>Cre</sup> transgene and another to confirm the _SOCS3_ floxed allele. In the LysM<sup>Cre</sup> gel, a band at approximately 700 bp indicates Cre-positive mice, while the absence of this band (or the presence of a lower band around 350 bp) indicates Cre-negative mice. In the corresponding _SOCS3_ gel, bands around 420 bp confirm the presence of the floxed allele, whereas a smaller band (~250 bp) may reflect Cre-mediated recombination of Exon 2 in specific cells (_refer to figure 7_).
 
 Mice showing both the Cre band (~700 bp) and the floxed _SOCS3_ band (~420 bp) are therefore confirmed as LysM<sup>Cre</sup> *SOCS3*<sup>fl/fl</sup>. This genotype is required for myeloid-specific deletion of _SOCS3_. Overall, the presence of bands at the expected sizes across both gels confirms the successful identification of both control and knockout mice used in this study.
 
 #### <strong>5.1.2b Hydroxyproline Assay Experiment</strong>
-Hydroxyproline assay (HPA) was performed on lung lysates to assess collagen deposition as a measure of fibrosis severity. Within each genotype, bleomycin-treated mice showed an increase in hydroxyproline content compared to their respective control groups, indicating enhanced collagen accumulation following fibrotic induction (refer to graph 2).
+Hydroxyproline assay (HPA) was performed on lung lysates to assess collagen deposition as a measure of fibrosis severity. Within each genotype, bleomycin-treated mice showed an increase in hydroxyproline content compared to their respective control groups, indicating enhanced collagen accumulation following fibrotic induction (_refer to graph 3_).
 
 Notably, when comparing bleomycin-treated groups across genotypes, knockout mice exhibited higher collagen levels compared to WT mice. This increased collagen deposition suggests that the absence of _SOCS3_ in myeloid cells may contribute to enhanced inflammation and fibrotic progression.
 
