@@ -293,7 +293,7 @@ In contrast, the knockout genotype exhibits a different pattern. Control knockou
 <div align="center">
 <img src="g8-10.png" alt="g8-10" width="600"><br>
   
-_Graph 8-10. Relative Gene Expression of knockout WT and Bleomycin-treated knockout mice from Main Study 1_
+_Graph 8-10. Relative Gene Expression of control knockout and Bleomycin-treated knockout mice from Main Study 1_
 
 </div>
 
@@ -331,17 +331,45 @@ Unfortunately, there were insufficient reagents remaining in the Sigma-Aldrich k
 #### <strong>5.2.2c qPCR</strong>
 In contrast to the qPCR results from Main Study 1, all three genes, COL1A1, ACTA2, and CCN2 displayed a similar but opposite expression pattern in Main Study 2. The control WT mice served as the baseline, with relative gene expression normalized to 1. Bleomycin-treated WT mice exhibited a marked increase in relative gene expression compared to WT controls.
 
-Specifically, COL1A1 expression increased by approximately 3-fold (p = 0.008), ACTA2 showed a 2-fold increase (p = 0.04), and CCN2 exhibited a 1.5-fold increase (p = 0.04), with all changes reaching statistical significance (refer to graph 13-15).
+Specifically, COL1A1 expression increased by approximately 3-fold (p = 0.008), ACTA2 showed a 2-fold increase (p = 0.04), and CCN2 exhibited a 1.5-fold increase (p = 0.04), with all changes reaching statistical significance (_refer to graph 13-15_).
+
+<div align="center">
+<img src="g13-15.png" alt="g13-15" width="600"><br>
+  
+_Graph 13-15. Relative Gene Expression of Control WT and Bleomycin-treated WT mice from Main Study 2_
+
+</div>
 
 This trend is consistent with the expected effects of bleomycin-induced injury, where increased expression of fibrosis-associated genes reflects enhanced extracellular matrix deposition and myofibroblast activation. In contrast to Main Study 1, where gene expression was unexpectedly suppressed, the upregulation observed here suggests a more typical fibrotic response following bleomycin treatment. This may indicate that the regulatory effects of _SOCS3_ observed in Main Study 1 were less pronounced in this cohort, or that variability in experimental conditions influenced the inflammatory and fibrotic response. 
 
-Similarly, the knockout genotype exhibited a comparable pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes (refer to graph 15-17). This increase may be attributed to the absence of _SOCS3_, resulting in a less regulated inflammatory response and enhanced fibrotic signalling within the lung following injury. Notably, this trend is consistent with observations from Main Study 1, further supporting the role of _SOCS3_ in modulating the fibrotic response.
+Similarly, the knockout genotype exhibited a comparable pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes (_refer to graph 16-18_). This increase may be attributed to the absence of _SOCS3_, resulting in a less regulated inflammatory response and enhanced fibrotic signalling within the lung following injury. Notably, this trend is consistent with observations from Main Study 1, further supporting the role of _SOCS3_ in modulating the fibrotic response.
+
+<div align="center">
+<img src="g16-18.png" alt="g16-18" width="600"><br>
+  
+_Graph 16-18. Relative Gene Expression of control knockout and Bleomycin-treated knockout mice from Main Study 2_
+
+</div>
 
 To further investigate the inflammatory component underlying these fibrotic changes, qPCR analysis of key immune markers was performed as part of Objective 2. The markers assessed included TNF-α, IL-6, IL-1β, and TGF-β. TNF-α (Jang et al., 2021) and IL-1β (Lopez-Castejon & Brough, 2011) are pro-inflammatory cytokines that play central roles in initiating and amplifying inflammatory responses. IL-6 (Scheller et al., 2011) is a multifunctional cytokine involved in both pro- and anti-inflammatory signalling, while TGF-β is a key regulator of fibrosis, promoting myofibroblast activation and extracellular matrix production (Frangogiannis, 2020).
 
-Across these immune markers, a generally consistent trend was observed, with the exception of IL-6. The control WT mice served as the baseline (normalized to 1), and bleomycin-treated WT mice exhibited a slight increase in relative gene expression compared to controls. However, these changes were minimal, with less than a one-fold difference, and did not reach statistical significance. Notably, IL-6 showed a decrease in expression following bleomycin treatment, suggesting a potentially distinct regulatory response compared to the other cytokines, potentially due to its dual role in both pro- and anti-inflammatory signalling (refer to graph 18).
+Across these immune markers, a generally consistent trend was observed, with the exception of IL-6. The control WT mice served as the baseline (normalized to 1), and bleomycin-treated WT mice exhibited a slight increase in relative gene expression compared to controls. However, these changes were minimal, with less than a one-fold difference, and did not reach statistical significance. Notably, IL-6 showed a decrease in expression following bleomycin treatment, suggesting a potentially distinct regulatory response compared to the other cytokines, potentially due to its dual role in both pro- and anti-inflammatory signalling (_refer to graph 19_).
 
-A similar pattern was observed in the knockout genotype. Control knockout mice again served as the baseline, while bleomycin-treated knockout mice demonstrated an increase in gene expression, with approximately a 1.5-2-fold upregulation across most markers(refer to graph 19). This further supports the notion that the absence of _SOCS3_ leads to a less controlled inflammatory response, contributing to enhanced fibrotic signalling in the lung. This trend is consistent with earlier findings and further supports the role of _SOCS3_ in regulating both inflammatory and fibrotic pathways.
+<div align="center">
+<img src="g19.png" alt="g19" width="400"><br>
+  
+_Graph 19. Expression levels of immune markers for control WT and Bleomycin-treated WT mice from Main Study 2_
+
+</div>
+
+A similar pattern was observed in the knockout genotype. Control knockout mice again served as the baseline, while bleomycin-treated knockout mice demonstrated an increase in gene expression, with approximately a 1.5-2-fold upregulation across most markers(_refer to graph 20_). This further supports the notion that the absence of _SOCS3_ leads to a less controlled inflammatory response, contributing to enhanced fibrotic signalling in the lung. This trend is consistent with earlier findings and further supports the role of _SOCS3_ in regulating both inflammatory and fibrotic pathways.
+
+<div align="center">
+<img src="g20.png" alt="g20" width="400"><br>
+  
+_Graph 20. Expression levels of immune markers for control knockout and Bleomycin-treated knockout mice from Main Study 2_
+
+</div>
 
 However, when comparing bleomycin-treated WT and knockout groups directly, no clear or consistent trend was observed across the immune markers. Although changes in relative gene expression were present, with some genes showing upregulation and others downregulation, these differences were not statistically significant. This variability suggests that the inflammatory response may be influenced by additional factors beyond _SOCS3_ deficiency alone, highlighting the complexity of immune regulation in bleomycin-induced pulmonary fibrosis.
 
