@@ -79,7 +79,6 @@ Pulmonary fibrosis (PF) is a lung disease that occurs when the  lung tissue beco
 
 <img src="intro 1.png" alt="fig 1" width="600"><br><br>
 _Figure 1. Differences between a healthy lung and a lung affected by PF_
-
 </div>
 
 PF is thought to occur due to genetic predisposition or environmental factors but in most cases  idiopathic pulmonary fibrosis (IPF) is the most common, affecting 13 to 20 people per 100,000 (Variations Emerge among Adults Living with Pulmonary Fibrosis, 2023). Based on this prevalence, Singapore likely has around 1000 patients (More Than 70 Percent of Patients With IPF Are Males and Smokers or Ex-smokers, 2017). It appears to be quite prevalent in the Asia-Pacific region, with reported rates ranging from 0.57 to 4.51 per 10,000, largely due to South Korea, which records the highest incidence worldwide. In comparison, prevalence rates are slightly lower in North America from 2.40 to 2.98 per 10,000 and even lower in Europe, where incidence rates are 0.33 to 2.51 per 10,000. When prevalence estimates were compared to country-specific rare disease thresholds, IPF met the definition of a rare disease in all countries except South Korea (Maher et al., 2021). 
