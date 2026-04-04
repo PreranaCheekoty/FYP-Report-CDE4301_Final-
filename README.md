@@ -322,11 +322,11 @@ Collagen I (COL1A1) | Abcam. (2026). Abcam.com. https://www.abcam.com/en-us/tech
 
 ‌Jang, D., Lee, A-Hyeon., Shin, H.-Y., Song, H.-R., Park, J.-H., Kang, T.-B., Lee, S.-R., & Yang, S.-H. (2021). The Role of Tumor Necrosis Factor Alpha (TNF-α) in Autoimmune Disease and Current TNF-α Inhibitors in Therapeutics. International Journal of Molecular Sciences, 22(5), 2719. https://doi.org/10.3390/ijms22052719<br>
 
-‌Lopez-Castejon, G., & Brough, D. (2011). Understanding the mechanism of IL-1β secretion. Cytokine & Growth Factor Reviews, 22(4), 189–195. https://doi.org/10.1016/j.cytogfr.2011.10.001
+‌Lopez-Castejon, G., & Brough, D. (2011). Understanding the mechanism of IL-1β secretion. Cytokine & Growth Factor Reviews, 22(4), 189–195. https://doi.org/10.1016/j.cytogfr.2011.10.001<br>
 
-‌Scheller, J., Chalaris, A., Schmidt-Arras, D., & Rose-John, S. (2011). The pro- and anti-inflammatory properties of the cytokine interleukin-6. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1813(5), 878–888. https://doi.org/10.1016/j.bbamcr.2011.01.034
+‌Scheller, J., Chalaris, A., Schmidt-Arras, D., & Rose-John, S. (2011). The pro- and anti-inflammatory properties of the cytokine interleukin-6. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1813(5), 878–888. https://doi.org/10.1016/j.bbamcr.2011.01.034<br>
 
-‌Frangogiannis, N. G. (2020). Transforming growth factor–β in tissue fibrosis. Journal of Experimental Medicine, 217(3). https://doi.org/10.1084/jem.20190103
+‌Frangogiannis, N. G. (2020). Transforming growth factor–β in tissue fibrosis. Journal of Experimental Medicine, 217(3). https://doi.org/10.1084/jem.20190103<br>
 
 ‌
 
