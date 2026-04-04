@@ -288,15 +288,36 @@ _Graph 5-7. Relative Gene Expression of Control WT and Bleomycin-treated WT mice
 
 This trend may be attributed to the presence of intact _SOCS3_ in myeloid cells in these mice. The data suggest that _SOCS3_ could possibly be playing a protective role by dampening the inflammatory response, thereby limiting fibrotic progression even following bleomycin-induced injury. In this context, the injury response appears to be more tightly regulated when _SOCS3_ is present. 
 
-In contrast, the knockout genotype exhibits a different pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1, similar to the control WT group. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes. This increase may be attributed to the absence of _SOCS3_, leading to a less regulated inflammatory response and enhanced fibrotic signaling within the lung following injury (refer to graph 7-9).
+In contrast, the knockout genotype exhibits a different pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1, similar to the control WT group. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes. This increase may be attributed to the absence of _SOCS3_, leading to a less regulated inflammatory response and enhanced fibrotic signaling within the lung following injury (_refer to graph 8-10_).
+
+<div align="center">
+<img src="g8-10.png" alt="g8-10" width="600"><br>
+  
+_Graph 8-10. Relative Gene Expression of knockout WT and Bleomycin-treated knockout mice from Main Study 1_
+
+</div>
 
 Statistically significant increases were observed for ACTA2 and CCN2 (p = 0.007 for both), while COL1A1 also showed an upward trend, although this did not reach statistical significance.
 
 ### <strong>5.2 Main Study 2</strong>
 #### <strong>5.2.1 Phenotype</strong>
-Phenotypic changes observed in Main Study 2 were consistent with those reported in Main Study 1. Control mice from both WT and knockout groups showed a slight increase in body weight of approximately 1-2% over the study period, whereas bleomycin-treated mice exhibited a marked reduction of approximately 20-25% (refer to graph 10). Statistical analysis using a one-way ANOVA confirmed that these changes were significant (p = 0.001). Signs of physical distress, including altered gait, and weight distribution were also observed in some treated animals. 
+Phenotypic changes observed in Main Study 2 were consistent with those reported in Main Study 1. Control mice from both WT and knockout groups showed a slight increase in body weight of approximately 1-2% over the study period, whereas bleomycin-treated mice exhibited a marked reduction of approximately 20-25% (_refer to graph 11_). Statistical analysis using a one-way ANOVA confirmed that these changes were significant (p = 0.001). Signs of physical distress, including altered gait, and weight distribution were also observed in some treated animals. 
 
-Similarly, lung weights in bleomycin-treated mice were increased by approximately 1.5-2-fold compared to controls across both genotypes (refer to graph 11). This resulted in an elevated lung-to-body weight ratio, consistent with fibrotic progression driven by inflammation and tissue remodelling.
+<div align="center">
+<img src="g11.png" alt="g11" width="600"><br>
+  
+_Graph 11. Body weight differences of Main Study 1 mice_
+
+</div>
+
+Similarly, lung weights in bleomycin-treated mice were increased by approximately 1.5-2-fold compared to controls across both genotypes (_refer to graph 12_). This resulted in an elevated lung-to-body weight ratio, consistent with fibrotic progression driven by inflammation and tissue remodelling.
+
+<div align="center">
+<img src="g12.png" alt="g12" width="600"><br>
+  
+_Graph 12. Lung weights of Main Study 1 mice_
+
+</div>
 
 Overall, a negative correlation between body weight and lung weight was again observed, reinforcing the relationship between weight loss and increased lung burden following bleomycin treatment.
 
