@@ -50,19 +50,18 @@ Lastly, I am deeply grateful to my lab members - Saiji, Loukas, Annabel, Mardi, 
 
 
 **[5. Results and Discussion](#5-results-and-discussion)** ......................... **13**
-  - [5.1 Main Study 1](#51-main-study-1) ................. 13
-  - [5.1.1 Phenotype](##511-phenotype)................. 13
-  - [5.1.1 Phenotype](###511-phenotype)................. 13
-  - [5.1.2 Genotype](##511-genotype)................. 14
-  - [5.1.2.a Genotyping](###512a-pgenotyping)................. 14
-  - [5.1.2.b Hydroxyproline Assay Experiment](###512b-Hydroxyproline-Assay-Experiment)................. 14
-  - [5.1.2.c qPCR](###512c-qPCR)................. 15
-  - [5.2 Main Study 2](#52-main-study-2) ................. 17
-  - [5.2.1 Phenotype](##521-phenotype)................. 17
-  - [5.2.2 Genotype](##522-genotype)................. 17
-  - [5.2.2.a Genotyping](###522a-pgenotyping)................. 17
-  - [5.2.2.b Hydroxyproline Assay Experiment](###522b-Hydroxyproline-Assay-Experiment)................. 17
-  - [5.2.2.c qPCR](###522c-qPCR)................. 18
+  - - [5.2 Main Study 1](#52-main-study-2)................. 13
+  - [5.2.1 Phenotype](#521-phenotype)................. 13
+  - [5.2.2 Genotype](#522-genotype)................. 13
+    - [5.2.2.a Genotyping](#522a-genotyping)................. 14
+    - [5.2.2.b Hydroxyproline Assay Experiment](#522b-hydroxyproline-assay-experiment)................. 14
+    - [5.2.2.c qPCR](#522c-qpcr)................. 15
+  - [5.2 Main Study 2](#52-main-study-2)................. 17
+  - [5.2.1 Phenotype](#521-phenotype)................. 17
+  - [5.2.2 Genotype](#522-genotype)................. 17
+    - [5.2.2.a Genotyping](#522a-genotyping)................. 17
+    - [5.2.2.b Hydroxyproline Assay Experiment](#522b-hydroxyproline-assay-experiment)................. 17
+    - [5.2.2.c qPCR](#522c-qpcr)................. 18
 
 **[6. Conclusion](#6-conclusion)** ................................................ **19**
 
