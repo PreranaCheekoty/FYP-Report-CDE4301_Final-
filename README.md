@@ -272,7 +272,7 @@ After which, additional primers were used to assess the expression of key fibros
 Across all three genes, a similar expression pattern was observed. The control WT mice served as the baseline, with relative gene expression normalized to 1. Bleomycin-treated WT mice showed a marked decrease in relative gene expression compared to control WT mice. Specifically, COL1A1 expression was reduced by approximately 10-fold (p = 0.002), ACTA2 showed a decrease of close to 8-fold (p = 0.008), and CCN2 exhibited a 2-fold reduction, though not statistically significant (_refer to graph 5-7_).
 
 <div align="center">
-<img src="g5-7.png" alt="g5-7" width="600"><br>
+<img src="new g5-7.png" alt="new g5-7" width="600"><br>
   
 _Graph 5-7. Relative Gene Expression of Control WT and Bleomycin-treated WT mice from Main Study 1_
 
@@ -283,7 +283,7 @@ This trend may be attributed to the presence of intact _SOCS3_ in myeloid cells 
 In contrast, the knockout genotype exhibits a different pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1, similar to the control WT group. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes. This increase may be attributed to the absence of _SOCS3_, leading to a less regulated inflammatory response and enhanced fibrotic signaling within the lung following injury (_refer to graph 8-10_).
 
 <div align="center">
-<img src="g8-10.png" alt="g8-10" width="600"><br>
+<img src="new g8-10.png" alt="new g8-10" width="600"><br>
   
 _Graph 8-10. Relative Gene Expression of control knockout and Bleomycin-treated knockout mice from Main Study 1_
 
@@ -326,7 +326,7 @@ In contrast to the qPCR results from Main Study 1, all three genes, COL1A1, ACTA
 Specifically, COL1A1 expression increased by approximately 3-fold (p = 0.008), ACTA2 showed a 2-fold increase (p = 0.04), and CCN2 exhibited a 1.5-fold increase (p = 0.04), with all changes reaching statistical significance (_refer to graph 13-15_).
 
 <div align="center">
-<img src="g13-15.png" alt="g13-15" width="600"><br>
+<img src="new g13-15.png" alt="new g13-15" width="600"><br>
   
 _Graph 13-15. Relative Gene Expression of Control WT and Bleomycin-treated WT mice from Main Study 2_
 
@@ -337,7 +337,7 @@ This trend is consistent with the expected effects of bleomycin-induced injury, 
 Similarly, the knockout genotype exhibited a comparable pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes (_refer to graph 16-18_). This increase may be attributed to the absence of _SOCS3_, resulting in a less regulated inflammatory response and enhanced fibrotic signalling within the lung following injury. Notably, this trend is consistent with observations from Main Study 1, further supporting the role of _SOCS3_ in modulating the fibrotic response.
 
 <div align="center">
-<img src="new 16-17.png" alt="new 16-17" width="600"><br>
+<img src="new 16-18.png" alt="new 16-18" width="600"><br>
   
 _Graph 16-18. Relative Gene Expression of control knockout and Bleomycin-treated knockout mice from Main Study 2_
 
