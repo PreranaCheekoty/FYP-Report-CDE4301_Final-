@@ -337,7 +337,7 @@ This trend is consistent with the expected effects of bleomycin-induced injury, 
 Similarly, the knockout genotype exhibited a comparable pattern. Control knockout mice served as the baseline, with relative gene expression normalized to 1. However, bleomycin-treated knockout mice showed a marked increase in gene expression, with approximately a 1.5-2 fold upregulation observed across all three genes (_refer to graph 16-18_). This increase may be attributed to the absence of _SOCS3_, resulting in a less regulated inflammatory response and enhanced fibrotic signalling within the lung following injury. Notably, this trend is consistent with observations from Main Study 1, further supporting the role of _SOCS3_ in modulating the fibrotic response.
 
 <div align="center">
-<img src="g16-18.png" alt="g16-18" width="600"><br>
+<img src="new 16-17.png" alt="new 16-17" width="600"><br>
   
 _Graph 16-18. Relative Gene Expression of control knockout and Bleomycin-treated knockout mice from Main Study 2_
 
@@ -357,7 +357,7 @@ _Graph 19. Expression levels of immune markers for control WT and Bleomycin-trea
 A similar pattern was observed in the knockout genotype. Control knockout mice again served as the baseline, while bleomycin-treated knockout mice demonstrated an increase in gene expression, with approximately a 1.5-2-fold upregulation across most markers(_refer to graph 20_). This further supports the notion that the absence of _SOCS3_ leads to a less controlled inflammatory response, contributing to enhanced fibrotic signalling in the lung. This trend is consistent with earlier findings and further supports the role of _SOCS3_ in regulating both inflammatory and fibrotic pathways.
 
 <div align="center">
-<img src="g20.png" alt="g20" width="400"><br>
+<img src="new 20.png" alt="new 20" width="400"><br>
   
 _Graph 20. Expression levels of immune markers for control knockout and Bleomycin-treated knockout mice from Main Study 2_
 
